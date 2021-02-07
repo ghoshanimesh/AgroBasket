@@ -1,0 +1,111 @@
+State,District,Kharif,Rabi,WholeYear,Summer
+Andhra Pradesh,ANANTAPUR,1,1,0,0
+Andhra Pradesh,EAST GODAVARI,1,1,0,0
+Andhra Pradesh,WEST GODAVARI,0,1,0,0
+Andhra Pradesh,GUNTUR,1,1,0,0
+Andhra Pradesh,KADAPA,1,1,0,0
+Andhra Pradesh,KRISHNA,0,1,0,0
+Andhra Pradesh,KURNOOL,1,1,0,0
+Andhra Pradesh,PRAKASAM,1,1,0,0
+Andhra Pradesh,SPSR NELLORE,0,1,0,0
+Andhra Pradesh,SRIKAKULAM,1,1,0,0
+Andhra Pradesh,VISAKHAPATANAM,1,1,0,0
+Andhra Pradesh,VIZIANAGARAM,0,1,0,0
+Bihar,BHAGALPUR,0,0,1,0
+Bihar,GOPALGANJ,0,0,1,0
+Bihar,KISHANGANJ,0,0,1,0
+Bihar,MUZAFFARPUR,0,0,1,0
+Bihar,SAMASTIPUR,0,0,1,0
+Bihar,SHEOHAR,0,0,1,0
+Bihar,SIWAN,0,0,1,0
+Bihar,VAISHALI,0,0,1,0
+Gujarat,AHMADABAD,1,0,0,0
+Gujarat,AMRELI,1,0,0,0
+Gujarat,ANAND,1,1,0,0
+Gujarat,ARAVALLI,0,1,0,0
+Gujarat,BANAS KANTHA,1,1,0,0
+Gujarat,GANDHINAGAR,0,1,0,0
+Gujarat,KHEDA,1,1,0,0
+Gujarat,MAHESANA,1,1,0,0
+Gujarat,MAHISAGAR,1,0,0,0
+Gujarat,PANCH MAHALS,1,0,0,0
+Gujarat,PATAN,0,1,0,0
+Gujarat,SABAR KANTHA,0,1,0,0
+Gujarat,VADODARA,1,1,0,0
+Karnataka,BAGALKOT,0,0,1,0
+Karnataka,BANGALORE RURAL,0,0,1,0
+Karnataka,BELGAUM,0,0,1,0
+Karnataka,BELLARY,0,0,1,0
+Karnataka,BENGALURU URBAN,0,0,1,0
+Karnataka,BIDAR,0,0,1,0
+Karnataka,BIJAPUR,0,0,1,0
+Karnataka,CHAMARAJANAGAR,0,0,1,0
+Karnataka,CHIKBALLAPUR,0,0,1,0
+Karnataka,CHIKMAGALUR,0,0,1,0
+Karnataka,CHITRADURGA,0,0,1,0
+Karnataka,DAKSHIN KANNAD,0,0,1,0
+Karnataka,DAVANGERE,0,0,1,0
+Karnataka,GADAG,0,0,1,0
+Karnataka,GULBARGA,0,0,1,0
+Karnataka,HASSAN,0,0,1,0
+Karnataka,HAVERI,0,0,1,0
+Karnataka,KOPPAL,0,0,1,0
+Karnataka,MANDYA,0,0,1,0
+Karnataka,MYSORE,0,0,1,0
+Karnataka,RAICHUR,0,0,1,0
+Karnataka,RAMANAGARA,0,0,1,0
+Karnataka,SHIMOGA,0,0,1,0
+Karnataka,TUMKUR,0,0,1,0
+Karnataka,UDUPI,0,0,1,0
+Karnataka,YADGIR,0,0,1,0
+Kerala,KASARAGOD,0,0,1,0
+Meghalaya,EAST GARO HILLS,0,1,0,0
+Meghalaya,NORTH GARO HILLS,0,1,0,0
+Meghalaya,SOUTH GARO HILLS,0,1,0,0
+Meghalaya,SOUTH WEST GARO HILLS,0,1,0,0
+Meghalaya,WEST GARO HILLS,0,1,0,0
+Meghalaya,WEST KHASI HILLS,0,1,0,0
+Telangana,ADILABAD,0,1,0,0
+Telangana,BHADRADRI,0,1,0,0
+Telangana,JANGOAN,1,1,0,0
+Telangana,JOGULAMBA,1,1,0,0
+Telangana,KAMAREDDY,0,1,0,0
+Telangana,KARIMNAGAR,1,1,0,0
+Telangana,KHAMMAM,0,1,0,0
+Telangana,MAHABUBABAD,0,1,0,0
+Telangana,MULUGU,0,1,0,0
+Telangana,NIRMAL,0,1,0,0
+Telangana,NIZAMABAD,0,1,0,0
+Telangana,WANAPARTHY,0,1,0,0
+Telangana,WARANGAL,0,1,0,0
+Uttar Pradesh,AMBEDKAR NAGAR,0,1,0,0
+Uttar Pradesh,AZAMGARH,0,1,0,0
+Uttar Pradesh,BARABANKI,0,1,0,0
+Uttar Pradesh,BASTI,0,1,0,0
+Uttar Pradesh,BUDAUN,0,1,0,0
+Uttar Pradesh,BULANDSHAHR,0,1,0,0
+Uttar Pradesh,ETAH,0,1,0,0
+Uttar Pradesh,FARRUKHABAD,0,1,0,1
+Uttar Pradesh,FATEHPUR,0,0,0,1
+Uttar Pradesh,GHAZIPUR,0,1,0,0
+Uttar Pradesh,GONDA,0,1,0,0
+Uttar Pradesh,HAMIRPUR,0,1,0,0
+Uttar Pradesh,HARDOI,0,1,0,1
+Uttar Pradesh,HATHRAS,0,1,0,0
+Uttar Pradesh,KANNAUJ,0,1,0,0
+Uttar Pradesh,KANPUR NAGAR,0,1,0,0
+Uttar Pradesh,KASGANJ,0,1,0,1
+Uttar Pradesh,KAUSHAMBI,0,1,0,0
+Uttar Pradesh,KHERI,0,1,0,0
+Uttar Pradesh,MIRZAPUR,0,1,0,0
+Uttar Pradesh,PILIBHIT,0,0,0,1
+Uttar Pradesh,RAE BARELI,0,1,0,0
+Uttar Pradesh,SAMBHAL,0,1,0,1
+Uttar Pradesh,SHAHJAHANPUR,0,1,0,1
+Uttar Pradesh,SITAPUR,0,1,0,0
+Uttar Pradesh,SULTANPUR,0,0,0,1
+Uttar Pradesh,UNNAO,0,1,0,0
+Uttarakhand,HARIDWAR,0,0,1,0
+West Bengal,ALIPURDUAR,0,0,1,0
+West Bengal,COOCHBEHAR,0,0,1,0
+West Bengal,JALPAIGURI,0,0,1,0

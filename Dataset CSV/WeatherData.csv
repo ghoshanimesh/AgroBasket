@@ -1,0 +1,296 @@
+State,Crop,Soil,Season,SowingMonth,MinTemp,MaxTemp,SoilPHMin,SoilPHMax,MinRainfall,MaxRainfall
+Andhra Pradesh,Tur,Sandy Loamy Soil,Kharif,June,30,35,6.5,7.5,600,650
+Bihar,Tur,Sandy Loamy Soil,Kharif,July,30,35,6.5,7.5,600,650
+Gujarat,Tur,Sandy Loamy Soil,Kharif,June,30,35,6.5,7.5,600,650
+Himachal Pradesh,Tur,Sandy Loamy Soil,Kharif,June,30,35,6.5,7.5,600,650
+Karnataka,Tur,Sandy Loamy Soil,Kharif,June,30,35,6.5,7.5,600,650
+Kerala,Tur,Sandy Loamy Soil,Kharif,June,30,35,6.5,7.5,600,650
+Madhya Pradesh,Tur,Sandy Loamy Soil,Kharif,June,30,35,6.5,7.5,600,650
+Meghalaya,Tur,Sandy Loamy Soil,Kharif,June,30,35,6.5,7.5,600,650
+Nagaland,Tur,Sandy Loamy Soil,Kharif,June,30,35,6.5,7.5,600,650
+Telangana,Tur,Sandy Loamy Soil,Kharif,June,30,35,6.5,7.5,600,650
+Tripura,Tur,Sandy Loamy Soil,Kharif,June,30,35,6.5,7.5,600,650
+Uttar Pradesh,Tur,Sandy Loamy Soil,Kharif,July,30,35,6.5,7.5,600,650
+Uttarakhand,Tur,Sandy Loamy Soil,Kharif,June,30,35,6.5,7.5,600,650
+West Bengal,Tur,Sandy Loamy Soil,Kharif,June,30,35,6.5,7.5,600,650
+Andhra Pradesh,Tur,Sandy Loamy Soil,Rabi,October,30,35,6.5,7.5,600,650
+Bihar,Tur,Sandy Loamy Soil,Rabi,November,30,35,6.5,7.5,600,650
+Gujarat,Tur,Sandy Loamy Soil,Rabi,October,30,35,6.5,7.5,600,650
+Himachal Pradesh,Tur,Sandy Loamy Soil,Rabi,October,30,35,6.5,7.5,600,650
+Karnataka,Tur,Sandy Loamy Soil,Rabi,October,30,35,6.5,7.5,600,650
+Kerala,Tur,Sandy Loamy Soil,Rabi,October,30,35,6.5,7.5,600,650
+Madhya Pradesh,Tur,Sandy Loamy Soil,Rabi,October,30,35,6.5,7.5,600,650
+Meghalaya,Tur,Sandy Loamy Soil,Rabi,October,30,35,6.5,7.5,600,650
+Nagaland,Tur,Sandy Loamy Soil,Rabi,October,30,35,6.5,7.5,600,650
+Telangana,Tur,Sandy Loamy Soil,Rabi,October,30,35,6.5,7.5,600,650
+Tripura,Tur,Sandy Loamy Soil,Rabi,October,30,35,6.5,7.5,600,650
+Uttar Pradesh,Tur,Sandy Loamy Soil,Rabi,November,30,35,6.5,7.5,600,650
+Uttarakhand,Tur,Sandy Loamy Soil,Rabi,October,30,35,6.5,7.5,600,650
+West Bengal,Tur,Sandy Loamy Soil,Rabi,October,30,35,6.5,7.5,600,650
+Andhra Pradesh,Bajra,Sandy Loamy Soil,Kharif,June,20,30,7,8,400,750
+Bihar,Bajra,Sandy Loamy Soil,Kharif,June,20,30,7,8,400,750
+Gujarat,Bajra,Black Cotton Soil,Kharif,June,20,30,7,8,400,750
+Himachal Pradesh,Bajra,Sandy Loamy Soil,Kharif,June,20,30,7,8,400,750
+Karnataka,Bajra,Black Cotton Soil,Kharif,July,20,30,7,8,400,750
+Madhya Pradesh,Bajra,Black Cotton Soil,Kharif,June,20,30,7,8,400,750
+Nagaland,Bajra,Sandy Loamy Soil,Kharif,June,20,30,7,8,400,750
+Telangana,Bajra,Sandy Loamy Soil,Kharif,June,20,30,7,8,400,750
+Uttar Pradesh,Bajra,Sandy Loamy Soil,Kharif,June,20,30,7,8,400,750
+West Bengal,Bajra,Sandy Loamy Soil,Kharif,June,20,30,7,8,400,750
+Andhra Pradesh,Bajra,Sandy Loamy Soil,Summer,January,20,30,7,8,400,750
+Bihar,Bajra,Sandy Loamy Soil,Summer,January,20,30,7,8,400,750
+Gujarat,Bajra,Black Cotton Soil,Summer,February,20,30,7,8,400,750
+Himachal Pradesh,Bajra,Sandy Loamy Soil,Summer,January,20,30,7,8,400,750
+Karnataka,Bajra,Black Cotton Soil,Summer,January,20,30,7,8,400,750
+Madhya Pradesh,Bajra,Black Cotton Soil,Summer,January,20,30,7,8,400,750
+Nagaland,Bajra,Sandy Loamy Soil,Summer,January,20,30,7,8,400,750
+Telangana,Bajra,Sandy Loamy Soil,Summer,January,20,30,7,8,400,750
+Uttar Pradesh,Bajra,Sandy Loamy Soil,Summer,January,20,30,7,8,400,750
+West Bengal,Bajra,Sandy Loamy Soil,Summer,January,20,30,7,8,400,750
+Andhra Pradesh,Cashewnut,Coastal Sandy Soil,Kharif,August,25,49,5.5,7.5,1000,2500
+Goa,Cashewnut,Coastal Sandy Soil,Kharif,August,25,49,5.5,7.5,1000,2500
+Karnataka,Cashewnut,Laterite Soil,Kharif,August,25,49,5.5,7.5,1000,2500
+Kerala,Cashewnut,Laterite Soil,Kharif,August,25,49,5.5,7.5,1000,2500
+Meghalaya,Cashewnut,Laterite Soil,Kharif,August,25,49,5.5,7.5,1000,2500
+Telangana,Cashewnut,Coastal Sandy Soil,Kharif,August,25,49,5.5,7.5,1000,2500
+Andhra Pradesh,Cashewnut,Coastal Sandy Soil,Rabi,October,25,49,5.5,7.5,1000,2500
+Goa,Cashewnut,Coastal Sandy Soil,Rabi,October,25,49,5.5,7.5,1000,2500
+Karnataka,Cashewnut,Laterite Soil,Rabi,October,25,49,5.5,7.5,1000,2500
+Kerala,Cashewnut,Laterite Soil,Rabi,October,25,49,5.5,7.5,1000,2500
+Meghalaya,Cashewnut,Laterite Soil,Rabi,October,25,49,5.5,7.5,1000,2500
+Telangana,Cashewnut,Coastal Sandy Soil,Rabi,October,25,49,5.5,7.5,1000,2500
+Andhra Pradesh,Cashewnut,Coastal Sandy Soil,WholeYear,June,25,49,5.5,7.5,1000,2500
+Goa,Cashewnut,Coastal Sandy Soil,WholeYear,June,25,49,5.5,7.5,1000,2500
+Karnataka,Cashewnut,Laterite Soil,WholeYear,June,25,49,5.5,7.5,1000,2500
+Kerala,Cashewnut,Laterite Soil,WholeYear,June,25,49,5.5,7.5,1000,2500
+Meghalaya,Cashewnut,Laterite Soil,WholeYear,June,25,49,5.5,7.5,1000,2500
+Telangana,Cashewnut,Coastal Sandy Soil,WholeYear,June,25,49,5.5,7.5,1000,2500
+Andhra Pradesh,Tobacco,Central Black Soil,Kharif,June,20,30,5.5,6.5,800,1000
+Bihar,Tobacco,Sandy Loamy Soil,Kharif,June,20,30,5.5,6.5,800,1000
+Gujarat,Tobacco,Sandy Loamy Soil,Kharif,June,20,30,5.5,6.5,800,1000
+Karnataka,Tobacco,Karnataka Light Soil,Kharif,June,20,30,5.5,6.5,800,1000
+Kerala,Tobacco,Coastal Sandy Soil,Kharif,June,20,30,5.5,6.5,800,1000
+Meghalaya,Tobacco,Sandy Loamy Soil,Kharif,June,20,30,5.5,6.5,800,1000
+Telangana,Tobacco,Northern Black Soil,Kharif,June,20,30,5.5,6.5,800,1000
+Uttar Pradesh,Tobacco,Sandy Loamy Soil,Kharif,June,20,30,5.5,6.5,800,1000
+Uttarakhand,Tobacco,Sandy Loamy Soil,Kharif,June,20,30,5.5,6.5,800,1000
+West Bengal,Tobacco,Alluvial Soil,Kharif,June,20,30,5.5,6.5,800,1000
+Andhra Pradesh,Tobacco,Central Black Soil,Rabi,October,20,30,5.5,6.5,800,1000
+Bihar,Tobacco,Sandy Loamy Soil,Rabi,October,20,30,5.5,6.5,800,1000
+Gujarat,Tobacco,Sandy Loamy Soil,Rabi,October,20,30,5.5,6.5,800,1000
+Karnataka,Tobacco,Karnataka Light Soil,Rabi,October,20,30,5.5,6.5,800,1000
+Kerala,Tobacco,Coastal Sandy Soil,Rabi,October,20,30,5.5,6.5,800,1000
+Meghalaya,Tobacco,Sandy Loamy Soil,Rabi,October,20,30,5.5,6.5,800,1000
+Telangana,Tobacco,Northern Black Soil,Rabi,October,20,30,5.5,6.5,800,1000
+Uttar Pradesh,Tobacco,Sandy Loamy Soil,Rabi,October,20,30,5.5,6.5,800,1000
+Uttarakhand,Tobacco,Sandy Loamy Soil,Rabi,October,20,30,5.5,6.5,800,1000
+West Bengal,Tobacco,Alluvial Soil,Rabi,October,20,30,5.5,6.5,800,1000
+Andhra Pradesh,Tobacco,Central Black Soil,WholeYear,May,20,30,5.5,6.5,800,1000
+Bihar,Tobacco,Sandy Loamy Soil,WholeYear,May,20,30,5.5,6.5,800,1000
+Gujarat,Tobacco,Sandy Loamy Soil,WholeYear,May,20,30,5.5,6.5,800,1000
+Karnataka,Tobacco,Karnataka Light Soil,WholeYear,May,20,30,5.5,6.5,800,1000
+Kerala,Tobacco,Coastal Sandy Soil,WholeYear,May,20,30,5.5,6.5,800,1000
+Meghalaya,Tobacco,Sandy Loamy Soil,WholeYear,May,20,30,5.5,6.5,800,1000
+Telangana,Tobacco,Northern Black Soil,WholeYear,May,20,30,5.5,6.5,800,1000
+Uttar Pradesh,Tobacco,Sandy Loamy Soil,WholeYear,May,20,30,5.5,6.5,800,1000
+Uttarakhand,Tobacco,Sandy Loamy Soil,WholeYear,May,20,30,5.5,6.5,800,1000
+West Bengal,Tobacco,Alluvial Soil,WholeYear,May,20,30,5.5,6.5,800,1000
+Andhra Pradesh,Tobacco,Central Black Soil,Summer,February,20,30,5.5,6.5,800,1000
+Bihar,Tobacco,Sandy Loamy Soil,Summer,February,20,30,5.5,6.5,800,1000
+Gujarat,Tobacco,Sandy Loamy Soil,Summer,February,20,30,5.5,6.5,800,1000
+Karnataka,Tobacco,Karnataka Light Soil,Summer,February,20,30,5.5,6.5,800,1000
+Kerala,Tobacco,Coastal Sandy Soil,Summer,February,20,30,5.5,6.5,800,1000
+Meghalaya,Tobacco,Sandy Loamy Soil,Summer,February,20,30,5.5,6.5,800,1000
+Telangana,Tobacco,Northern Black Soil,Summer,February,20,30,5.5,6.5,800,1000
+Uttar Pradesh,Tobacco,Sandy Loamy Soil,Summer,February,20,30,5.5,6.5,800,1000
+Uttarakhand,Tobacco,Sandy Loamy Soil,Summer,February,20,30,5.5,6.5,800,1000
+West Bengal,Tobacco,Alluvial Soil,Summer,February,20,30,5.5,6.5,800,1000
+Andaman and Nicobar Islands,Coconut,Sandy Loamy Soil,WholeYear,June,19,30,5.5,7.5,1000,3000
+Andhra Pradesh,Coconut,Sandy Loamy Soil,WholeYear,June,19,30,5.5,7.5,1000,3000
+Goa,Coconut,Sandy Loamy Soil,WholeYear,June,19,30,5.5,7.5,1000,3000
+Karnataka,Coconut,Clayey Soil,WholeYear,June,19,30,5.5,7.5,1000,3000
+Kerala,Coconut,Sandy Loamy Soil,WholeYear,June,19,30,5.5,7.5,1000,3000
+West Bengal,Coconut,Sandy Loamy Soil,WholeYear,June,19,30,5.5,7.5,1000,3000
+Andhra Pradesh,Cotton,Black Cotton Soil,Kharif,June,21,30,6,7,850,1100
+Gujarat,Cotton,Alluvial Soil,Kharif,May,21,30,6,7,850,1100
+Himachal Pradesh,Cotton,Sandy Loamy Soil,Kharif,May,21,30,6,7,850,1100
+Karnataka,Cotton,Laterite Soil,Kharif,August,21,30,6,7,850,1100
+Kerala,Cotton,Laterite Soil,Kharif,June,21,30,6,7,850,1100
+Madhya Pradesh,Cotton,Black Cotton Soil,Kharif,June,21,30,6,7,850,1100
+Maharashtra,Cotton,Black Cotton Soil,Kharif,June,21,30,6,7,850,1100
+Meghalaya,Cotton,Black Cotton Soil,Kharif,July,21,30,6,7,850,1100
+Nagaland,Cotton,Black Cotton Soil,Kharif,July,21,30,6,7,850,1100
+Telangana,Cotton,Black Cotton Soil,Kharif,June,21,30,6,7,850,1100
+Tripura,Cotton,Black Cotton Soil,Kharif,June,21,30,6,7,850,1100
+Uttar Pradesh,Cotton,Sandy Loamy Soil,Kharif,June,21,30,6,7,850,1100
+West Bengal,Cotton,Alluvial Soil,Kharif,October,21,30,6,7,850,1100
+Andhra Pradesh,Cotton,Black Cotton Soil,Rabi,June,21,30,6,7,850,1100
+Gujarat,Cotton,Alluvial Soil,Rabi,May,21,30,6,7,850,1100
+Himachal Pradesh,Cotton,Sandy Loamy Soil,Rabi,May,21,30,6,7,850,1100
+Karnataka,Cotton,Laterite Soil,Rabi,August,21,30,6,7,850,1100
+Kerala,Cotton,Laterite Soil,Rabi,June,21,30,6,7,850,1100
+Madhya Pradesh,Cotton,Black Cotton Soil,Rabi,June,21,30,6,7,850,1100
+Maharashtra,Cotton,Black Cotton Soil,Rabi,June,21,30,6,7,850,1100
+Meghalaya,Cotton,Black Cotton Soil,Rabi,July,21,30,6,7,850,1100
+Nagaland,Cotton,Black Cotton Soil,Rabi,July,21,30,6,7,850,1100
+Telangana,Cotton,Black Cotton Soil,Rabi,June,21,30,6,7,850,1100
+Tripura,Cotton,Black Cotton Soil,Rabi,June,21,30,6,7,850,1100
+Uttar Pradesh,Cotton,Sandy Loamy Soil,Rabi,June,21,30,6,7,850,1100
+West Bengal,Cotton,Alluvial Soil,Rabi,October,21,30,6,7,850,1100
+Andhra Pradesh,Rice,Alluvial Soil,Kharif,May,23,32,5,7,1750,3000
+Bihar,Rice,Alluvial Soil,Kharif,June,23,32,5,7,1750,3000
+Goa,Rice,Laterite Soil,Kharif,June,23,32,5,7,1750,3000
+Gujarat,Rice,Deep Loamy Soil,Kharif,June,23,32,5,7,1750,3000
+Himachal Pradesh,Rice,Deep Loamy Soil,Kharif,May,23,32,5,7,1750,3000
+Karnataka,Rice,Laterite Soil,Kharif,May,23,32,5,7,1750,3000
+Madhya Pradesh,Rice,Red Soil,Kharif,June,23,32,5,7,1750,3000
+Maharashtra,Rice,Deep Loamy Soil,Kharif,June,23,32,5,7,1750,3000
+Manipur,Rice,Red Soil,Kharif,June,23,32,5,7,1750,3000
+Meghalaya,Rice,Red Soil,Kharif,June,23,32,5,7,1750,3000
+Sikkim,Rice,Deep Loamy Soil,Kharif,June,23,32,5,7,1750,3000
+Telangana,Rice,Alluvial Soil,Kharif,May,23,32,5,7,1750,3000
+Uttar Pradesh,Rice,Deep Loamy Soil,Kharif,May,23,32,5,7,1750,3000
+Uttarakhand,Rice,Deep Loamy Soil,Kharif,June,23,32,5,7,1750,3000
+West Bengal,Rice,Deep Loamy Soil,Kharif,June,23,32,5,7,1750,3000
+Andhra Pradesh,Rice,Alluvial Soil,Rabi,March,23,32,5,7,1750,3000
+Bihar,Rice,Alluvial Soil,Rabi,February,23,32,5,7,1750,3000
+Goa,Rice,Laterite Soil,Rabi,March,23,32,5,7,1750,3000
+Gujarat,Rice,Deep Loamy Soil,Rabi,March,23,32,5,7,1750,3000
+Himachal Pradesh,Rice,Deep Loamy Soil,Rabi,March,23,32,5,7,1750,3000
+Karnataka,Rice,Laterite Soil,Rabi,January,23,32,5,7,1750,3000
+Madhya Pradesh,Rice,Red Soil,Rabi,March,23,32,5,7,1750,3000
+Maharashtra,Rice,Deep Loamy Soil,Rabi,March,23,32,5,7,1750,3000
+Manipur,Rice,Red Soil,Rabi,February,23,32,5,7,1750,3000
+Meghalaya,Rice,Red Soil,Rabi,March,23,32,5,7,1750,3000
+Sikkim,Rice,Deep Loamy Soil,Rabi,March,23,32,5,7,1750,3000
+Telangana,Rice,Alluvial Soil,Rabi,March,23,32,5,7,1750,3000
+Uttar Pradesh,Rice,Deep Loamy Soil,Rabi,February,23,32,5,7,1750,3000
+Uttarakhand,Rice,Deep Loamy Soil,Rabi,March,23,32,5,7,1750,3000
+West Bengal,Rice,Deep Loamy Soil,Rabi,March,23,32,5,7,1750,3000
+Andhra Pradesh,Rice,Alluvial Soil,Autumn,September,23,32,5,7,1750,3000
+Bihar,Rice,Alluvial Soil,Autumn,September,23,32,5,7,1750,3000
+Goa,Rice,Laterite Soil,Autumn,September,23,32,5,7,1750,3000
+Gujarat,Rice,Deep Loamy Soil,Autumn,September,23,32,5,7,1750,3000
+Himachal Pradesh,Rice,Deep Loamy Soil,Autumn,September,23,32,5,7,1750,3000
+Karnataka,Rice,Laterite Soil,Autumn,September,23,32,5,7,1750,3000
+Madhya Pradesh,Rice,Red Soil,Autumn,September,23,32,5,7,1750,3000
+Maharashtra,Rice,Deep Loamy Soil,Autumn,September,23,32,5,7,1750,3000
+Manipur,Rice,Red Soil,Autumn,September,23,32,5,7,1750,3000
+Meghalaya,Rice,Red Soil,Autumn,September,23,32,5,7,1750,3000
+Sikkim,Rice,Deep Loamy Soil,Autumn,September,23,32,5,7,1750,3000
+Telangana,Rice,Alluvial Soil,Autumn,September,23,32,5,7,1750,3000
+Uttar Pradesh,Rice,Deep Loamy Soil,Autumn,September,23,32,5,7,1750,3000
+Uttarakhand,Rice,Deep Loamy Soil,Autumn,September,23,32,5,7,1750,3000
+West Bengal,Rice,Deep Loamy Soil,Autumn,September,23,32,5,7,1750,3000
+Andhra Pradesh,Rice,Alluvial Soil,Winter,November,23,32,5,7,1750,3000
+Bihar,Rice,Alluvial Soil,Winter,November,23,32,5,7,1750,3000
+Goa,Rice,Laterite Soil,Winter,December,23,32,5,7,1750,3000
+Gujarat,Rice,Deep Loamy Soil,Winter,November,23,32,5,7,1750,3000
+Himachal Pradesh,Rice,Deep Loamy Soil,Winter,November,23,32,5,7,1750,3000
+Karnataka,Rice,Laterite Soil,Winter,December,23,32,5,7,1750,3000
+Madhya Pradesh,Rice,Red Soil,Winter,November,23,32,5,7,1750,3000
+Maharashtra,Rice,Deep Loamy Soil,Winter,December,23,32,5,7,1750,3000
+Manipur,Rice,Red Soil,Winter,November,23,32,5,7,1750,3000
+Meghalaya,Rice,Red Soil,Winter,December,23,32,5,7,1750,3000
+Sikkim,Rice,Deep Loamy Soil,Winter,November,23,32,5,7,1750,3000
+Telangana,Rice,Alluvial Soil,Winter,December,23,32,5,7,1750,3000
+Uttar Pradesh,Rice,Deep Loamy Soil,Winter,November,23,32,5,7,1750,3000
+Uttarakhand,Rice,Deep Loamy Soil,Winter,November,23,32,5,7,1750,3000
+West Bengal,Rice,Deep Loamy Soil,Winter,December,23,32,5,7,1750,3000
+Andhra Pradesh,Gram,Sandy Loamy Soil,Rabi,October,20,25,6.5,7.8,600,1000
+Bihar,Gram,Sandy Loamy Soil,Rabi,October,20,25,6.5,7.8,600,1000
+Gujarat,Gram,Sandy Loamy Soil,Rabi,October,20,25,6.5,7.8,600,1000
+Himachal Pradesh,Gram,Sandy Loamy Soil,Rabi,October,20,25,6.5,7.8,600,1000
+Karnataka,Gram,Sandy Loamy Soil,Rabi,October,20,25,6.5,7.8,600,1000
+Madhya Pradesh,Gram,Sandy Loamy Soil,Rabi,October,20,25,6.5,7.8,600,1000
+Maharashtra,Gram,Sandy Loamy Soil,Rabi,October,20,25,6.5,7.8,600,1000
+Manipur,Gram,Sandy Loamy Soil,Rabi,October,20,25,6.5,7.8,600,1000
+Meghalaya,Gram,Sandy Loamy Soil,Rabi,October,20,25,6.5,7.8,600,1000
+Nagaland,Gram,Sandy Loamy Soil,Rabi,October,20,25,6.5,7.8,600,1000
+Telangana,Gram,Sandy Loamy Soil,Rabi,October,20,25,6.5,7.8,600,1000
+Tripura,Gram,Sandy Loamy Soil,Rabi,October,20,25,6.5,7.8,600,1000
+Uttar Pradesh,Gram,Sandy Loamy Soil,Rabi,October,20,25,6.5,7.8,600,1000
+Uttarakhand,Gram,Sandy Loamy Soil,Rabi,October,20,25,6.5,7.8,600,1000
+West Bengal,Gram,Sandy Loamy Soil,Rabi,October,20,25,6.5,7.8,600,1000
+Andhra Pradesh,Jowar,Sandy Loamy Soil,Kharif,June,25,35,5.5,8,300,650
+Bihar,Jowar,Sandy Loamy Soil,Kharif,June,25,35,5.5,8,300,650
+Gujarat,Jowar,Sandy Loamy Soil,Kharif,June,25,35,5.5,8,300,650
+Karnataka,Jowar,Sandy Loamy Soil,Kharif,June,25,35,5.5,8,300,650
+Madhya Pradesh,Jowar,Sandy Loamy Soil,Kharif,June,25,35,5.5,8,300,650
+Maharashtra,Jowar,Sandy Loamy Soil,Kharif,June,25,35,5.5,8,300,650
+Nagaland,Jowar,Sandy Loamy Soil,Kharif,June,25,35,5.5,8,300,650
+Telangana,Jowar,Sandy Loamy Soil,Kharif,June,25,35,5.5,8,300,650
+Tripura,Jowar,Sandy Loamy Soil,Kharif,June,25,35,5.5,8,300,650
+Uttar Pradesh,Jowar,Sandy Loamy Soil,Kharif,June,25,35,5.5,8,300,650
+West Bengal,Jowar,Sandy Loamy Soil,Kharif,June,25,35,5.5,8,300,650
+Andhra Pradesh,Jowar,Sandy Loamy Soil,Rabi,September,25,35,5.5,8,300,650
+Bihar,Jowar,Sandy Loamy Soil,Rabi,September,25,35,5.5,8,300,650
+Gujarat,Jowar,Sandy Loamy Soil,Rabi,September,25,35,5.5,8,300,650
+Karnataka,Jowar,Sandy Loamy Soil,Rabi,September,25,35,5.5,8,300,650
+Madhya Pradesh,Jowar,Sandy Loamy Soil,Rabi,September,25,35,5.5,8,300,650
+Maharashtra,Jowar,Sandy Loamy Soil,Rabi,September,25,35,5.5,8,300,650
+Nagaland,Jowar,Sandy Loamy Soil,Rabi,September,25,35,5.5,8,300,650
+Telangana,Jowar,Sandy Loamy Soil,Rabi,September,25,35,5.5,8,300,650
+Tripura,Jowar,Sandy Loamy Soil,Rabi,September,25,35,5.5,8,300,650
+Uttar Pradesh,Jowar,Sandy Loamy Soil,Rabi,September,25,35,5.5,8,300,650
+West Bengal,Jowar,Sandy Loamy Soil,Rabi,September,25,35,5.5,8,300,650
+Andhra Pradesh,Small Millets,Sandy Loamy Soil,Kharif,June,27,32,4.5,8,350,450
+Bihar,Small Millets,Sandy Loamy Soil,Kharif,June,27,32,4.5,8,350,450
+Gujarat,Small Millets,Sandy Loamy Soil,Kharif,June,27,32,4.5,8,350,450
+Himachal Pradesh,Small Millets,Sandy Loamy Soil,Kharif,June,27,32,4.5,8,350,450
+Karnataka,Small Millets,Sandy Loamy Soil,Kharif,June,27,32,4.5,8,350,450
+Madhya Pradesh,Small Millets,Sandy Loamy Soil,Kharif,June,27,32,4.5,8,350,450
+Meghalaya,Small Millets,Sandy Loamy Soil,Kharif,June,27,32,4.5,8,350,450
+Nagaland,Small Millets,Sandy Loamy Soil,Kharif,June,27,32,4.5,8,350,450
+Sikkim,Small Millets,Sandy Loamy Soil,Kharif,June,27,32,4.5,8,350,450
+Telangana,Small Millets,Sandy Loamy Soil,Kharif,June,27,32,4.5,8,350,450
+Tripura,Small Millets,Sandy Loamy Soil,Kharif,June,27,32,4.5,8,350,450
+Uttar Pradesh,Small Millets,Sandy Loamy Soil,Kharif,June,27,32,4.5,8,350,450
+Uttarakhand,Small Millets,Sandy Loamy Soil,Kharif,June,27,32,4.5,8,350,450
+West Bengal,Small Millets,Sandy Loamy Soil,Kharif,June,27,32,4.5,8,350,450
+Andhra Pradesh,Small Millets,Sandy Loamy Soil,Rabi,September,27,32,4.5,8,350,450
+Bihar,Small Millets,Sandy Loamy Soil,Rabi,September,27,32,4.5,8,350,450
+Gujarat,Small Millets,Sandy Loamy Soil,Rabi,September,27,32,4.5,8,350,450
+Himachal Pradesh,Small Millets,Sandy Loamy Soil,Rabi,September,27,32,4.5,8,350,450
+Karnataka,Small Millets,Sandy Loamy Soil,Rabi,September,27,32,4.5,8,350,450
+Madhya Pradesh,Small Millets,Sandy Loamy Soil,Rabi,September,27,32,4.5,8,350,450
+Meghalaya,Small Millets,Sandy Loamy Soil,Rabi,September,27,32,4.5,8,350,450
+Nagaland,Small Millets,Sandy Loamy Soil,Rabi,September,27,32,4.5,8,350,450
+Sikkim,Small Millets,Sandy Loamy Soil,Rabi,September,27,32,4.5,8,350,450
+Telangana,Small Millets,Sandy Loamy Soil,Rabi,September,27,32,4.5,8,350,450
+Tripura,Small Millets,Sandy Loamy Soil,Rabi,September,27,32,4.5,8,350,450
+Uttar Pradesh,Small Millets,Sandy Loamy Soil,Rabi,September,27,32,4.5,8,350,450
+Uttarakhand,Small Millets,Sandy Loamy Soil,Rabi,September,27,32,4.5,8,350,450
+West Bengal,Small Millets,Sandy Loamy Soil,Rabi,September,27,32,4.5,8,350,450
+Andhra Pradesh,Soyabean,Loamy Soil,Kharif,June,20,30,6.3,6.5,500,635
+Gujarat,Soyabean,Loamy Soil,Kharif,June,20,30,6.3,6.5,500,635
+Himachal Pradesh,Soyabean,Loamy Soil,Kharif,June,20,30,6.3,6.5,500,635
+Karnataka,Soyabean,Loamy Soil,Kharif,June,20,30,6.3,6.5,500,635
+Madhya Pradesh,Soyabean,Loamy Soil,Kharif,June,20,30,6.3,6.5,500,635
+Maharashtra,Soyabean,Loamy Soil,Kharif,June,20,30,6.3,6.5,500,635
+Manipur,Soyabean,Loamy Soil,Kharif,June,20,30,6.3,6.5,500,635
+Meghalaya,Soyabean,Loamy Soil,Kharif,June,20,30,6.3,6.5,500,635
+Nagaland,Soyabean,Loamy Soil,Kharif,June,20,30,6.3,6.5,500,635
+Sikkim,Soyabean,Loamy Soil,Kharif,June,20,30,6.3,6.5,500,635
+Telangana,Soyabean,Loamy Soil,Kharif,June,20,30,6.3,6.5,500,635
+Tripura,Soyabean,Loamy Soil,Kharif,June,20,30,6.3,6.5,500,635
+Uttar Pradesh,Soyabean,Loamy Soil,Kharif,June,20,30,6.3,6.5,500,635
+Uttarakhand,Soyabean,Loamy Soil,Kharif,June,20,30,6.3,6.5,500,635
+West Bengal,Soyabean,Loamy Soil,Kharif,June,20,30,6.3,6.5,500,635
+Andhra Pradesh,Wheat,Loamy Soil,Rabi,October,21,26,6,7,250,1750
+Bihar,Wheat,Loamy Soil,Rabi,November,21,26,6,7,250,1750
+Gujarat,Wheat,Loamy Soil,Rabi,October,21,26,6,7,250,1750
+Himachal Pradesh,Wheat,Loamy Soil,Rabi,October,21,26,6,7,250,1750
+Karnataka,Wheat,Loamy Soil,Rabi,October,21,26,6,7,250,1750
+Kerala,Wheat,Loamy Soil,Rabi,October,21,26,6,7,250,1750
+Madhya Pradesh,Wheat,Loamy Soil,Rabi,October,21,26,6,7,250,1750
+Maharashtra,Wheat,Loamy Soil,Rabi,October,21,26,6,7,250,1750
+Manipur,Wheat,Loamy Soil,Rabi,October,21,26,6,7,250,1750
+Meghalaya,Wheat,Loamy Soil,Rabi,October,21,26,6,7,250,1750
+Nagaland,Wheat,Loamy Soil,Rabi,October,21,26,6,7,250,1750
+Sikkim,Wheat,Loamy Soil,Rabi,October,21,26,6,7,250,1750
+Telangana,Wheat,Loamy Soil,Rabi,October,21,26,6,7,250,1750
+Tripura,Wheat,Loamy Soil,Rabi,October,21,26,6,7,250,1750
+Uttar Pradesh,Wheat,Loamy Soil,Rabi,October,21,26,6,7,250,1750
+Uttarakhand,Wheat,Loamy Soil,Rabi,October,21,26,6,7,250,1750
+West Bengal,Wheat,Loamy Soil,Rabi,November,21,26,6,7,250,1750

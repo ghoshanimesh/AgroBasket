@@ -1,0 +1,174 @@
+State,District,Kharif,Rabi
+Andhra Pradesh,ANANTAPUR,1,1
+Andhra Pradesh,EAST GODAVARI,1,0
+Andhra Pradesh,WEST GODAVARI,0,0
+Andhra Pradesh,CHITTOOR,1,1
+Andhra Pradesh,GUNTUR,0,1
+Andhra Pradesh,KADAPA,1,1
+Andhra Pradesh,KURNOOL,1,1
+Andhra Pradesh,PRAKASAM,1,1
+Andhra Pradesh,SPSR NELLORE,0,1
+Andhra Pradesh,SRIKAKULAM,1,0
+Andhra Pradesh,VISAKHAPATANAM,1,0
+Andhra Pradesh,VIZIANAGARAM,1,0
+Bihar, BEGUSARAI,1,0
+Bihar, BHAGALPUR,1,0
+Bihar, BHOJPUR,1,0
+Bihar, KATIHAR,1,0
+Bihar, KHAGARIA,1,0
+Bihar, MADHEPURA,1,0
+Bihar, MUNGER,1,0
+Bihar, NALANDA,1,0
+Bihar,SAMASTIPUR,1,0
+Bihar,SARAN,1,0
+Bihar,SIWAN,1,0
+Bihar,SUPAUL,1,0
+Gujarat, AMRELI,0,1
+Gujarat, ANAND,0,1
+Gujarat,BANAS KANTHA,0,1
+Gujarat, CHHOTAUDEPUR,0,1
+Gujarat,GIR SOMNATH,0,1
+Gujarat,JUNAGADH,0,1
+Gujarat,KHEDA,0,1
+Gujarat,PANCH MAHALS,0,1
+Gujarat,SURAT,0,1
+Gujarat,VADODARA,0,1
+Himachal Pradesh, CHAMBA,1,0
+Himachal Pradesh,KANGRA,1,0
+Himachal Pradesh,KINNAUR,1,0
+Himachal Pradesh,KULLU,1,0
+Himachal Pradesh,LAHUL AND SPITI,1,0
+Himachal Pradesh,MANDI,1,0
+Himachal Pradesh,SHIMLA,1,0
+Himachal Pradesh,SIRMAUR,1,0
+Karnataka,BAGALKOT,1,0
+Karnataka,BANGALORE RURAL,1,0
+Karnataka,BELGAUM,1,0
+Karnataka,BELLARY,1,0
+Karnataka,BENGALURU URBAN,1,0
+Karnataka,BIDAR,1,0
+Karnataka,BIJAPUR,1,0
+Karnataka,CHAMARAJANAGAR,1,0
+Karnataka,CHIKBALLAPUR,1,0
+Karnataka,CHIKMAGALUR,1,0
+Karnataka,CHITRADURGA,1,0
+Karnataka,DAKSHIN KANNAD,1,0
+Karnataka,DAVANGERE,1,0
+Karnataka,DHARWAD,1,0
+Karnataka,GADAG,1,0
+Karnataka,GULBARGA,1,0
+Karnataka,HASSAN,1,0
+Karnataka,HAVERI,1,0
+Karnataka,KODAGU,1,0
+Karnataka,KOLAR,1,0
+Karnataka,KOPPAL,1,0
+Karnataka,MANDYA,1,0
+Karnataka,MYSORE,1,0
+Karnataka,RAICHUR,1,0
+Karnataka,RAMANAGARA,1,0
+Karnataka,SHIMOGA,1,0
+Karnataka,TUMKUR,1,0
+Karnataka,UDUPI,1,0
+Karnataka,UTTAR KANNAD,1,0
+Karnataka,YADGIR,1,0
+Madhya Pradesh,ALIRAJPUR,1,0
+Madhya Pradesh,ANUPPUR,1,0
+Madhya Pradesh,BALAGHAT,1,0
+Madhya Pradesh, 4.BARWANI,1,0
+Madhya Pradesh,BETUL,1,0
+Madhya Pradesh,BHIND,1,0
+Madhya Pradesh,BURHANPUR,1,0
+Madhya Pradesh,CHHATARPUR,1,0
+Madhya Pradesh,CHHINDWARA,1,0
+Madhya Pradesh,DHAR,1,0
+Madhya Pradesh,DINDORI,1,0
+Madhya Pradesh,GWALIOR,1,0
+Madhya Pradesh,HARDA,1,0
+Madhya Pradesh,HOSHANGABAD,1,0
+Madhya Pradesh,JABALPUR,1,0
+Madhya Pradesh,JHABUA,1,0
+Madhya Pradesh,KATNI,1,0
+Madhya Pradesh,KHANDWA,1,0
+Madhya Pradesh,MANDLA,1,0
+Madhya Pradesh,MANDSAUR,1,0
+Madhya Pradesh,MORENA,1,0
+Madhya Pradesh,NARSINGHPUR,1,0
+Madhya Pradesh,PANNA,1,0
+Meghalaya,EAST GARO HILLS,0,1
+Meghalaya,EAST JAINTIA HILLS,0,1
+Meghalaya,EAST KHASI HILLS,0,1
+Meghalaya,NORTH GARO HILLS,0,1
+Meghalaya,RI BHOI,0,1
+Meghalaya,SOUTH GARO HILLS,0,1
+Meghalaya,SOUTH WEST GARO HILLS,0,1
+Meghalaya,SOUTH WEST KHASI HILLS,0,1
+Meghalaya,WEST GARO HILLS,0,1
+Meghalaya,WEST JAINTIA HILLS,0,1
+Meghalaya,WEST KHASI HILLS,0,1
+Nagaland,KIPHIRE,1,0
+Nagaland,KOHIMA,1,0
+Nagaland,LONGLENG,1,0
+Nagaland,MOKOKCHUNG,1,0
+Nagaland,MON,1,0
+Nagaland,PEREN,1,0
+Nagaland,PHEK,1,0
+Nagaland,TUENSANG,1,0
+Nagaland,WOKHA,1,0
+Nagaland,ZUNHEBOTO,1,0
+Sikkim,EAST DISTRICT,1,0
+Sikkim,NORTH DISTRICT,1,0
+Sikkim,SOUTH DISTRICT,1,0
+Sikkim,WEST DISTRICT,1,0
+Telangana,JOGULAMBA,1,0
+Telangana,MAHBUBNAGAR,1,0
+Telangana,MEDAK,0,1
+Telangana,NAGARKURNOOL,1,0
+Telangana,SANGAREDDY,0,1
+Telangana,SURYAPET,0,1
+Telangana,YADADRI,0,1
+Tripura,DHALAI,1,0
+Tripura,GOMATI,1,0
+Tripura,KHOWAI,1,0
+Tripura,NORTH TRIPURA,1,0
+Tripura,SEPAHIJALA,1,0
+Tripura,SOUTH TRIPURA,1,0
+Tripura,UNAKOTI,1,0
+Tripura,WEST TRIPURA,1,0
+Uttar Pradesh,ALLAHABAD,1,0
+Uttar Pradesh,AMETHI,1,0
+Uttar Pradesh,AZAMGARH,1,0
+Uttar Pradesh,BAHRAICH,1,0
+Uttar Pradesh,BALLIA,1,0
+Uttar Pradesh,BALRAMPUR,1,0
+Uttar Pradesh, BANDA,1,0
+Uttar Pradesh,BARABANKI,1,0
+Uttar Pradesh,CHITRAKOOT,1,0
+Uttar Pradesh,FAIZABAD,1,0
+Uttar Pradesh,GORAKHPUR,1,0
+Uttar Pradesh,JALAUN,1,0
+Uttar Pradesh,JHANSI,1,0
+Uttar Pradesh,KANPUR NAGAR,1,0
+Uttar Pradesh,KAUSHAMBI,1,0
+Uttar Pradesh,KHERI,1,0
+Uttar Pradesh,KUSHI NAGAR,1,0
+Uttar Pradesh,LALITPUR,1,0
+Uttar Pradesh,LUCKNOW,1,0
+Uttar Pradesh,MAHARAJGANJ,1,0
+Uttar Pradesh,MAU,1,0
+Uttar Pradesh,RAE BARELI,1,0
+Uttar Pradesh,SANT KABEER NAGAR,1,0
+Uttarakhand,ALMORA,1,0
+Uttarakhand,BAGESHWAR,1,0
+Uttarakhand,CHAMOLI,1,0
+Uttarakhand,CHAMPAWAT,1,0
+Uttarakhand,DEHRADUN,1,0
+Uttarakhand,HARIDWAR,1,0
+Uttarakhand,NAINITAL,1,0
+Uttarakhand,PAURI GARHWAL,1,0
+Uttarakhand,PITHORAGARH,1,0
+Uttarakhand,RUDRA PRAYAG,1,0
+Uttarakhand,TEHRI GARHWAL,1,0
+Uttarakhand,UDAM SINGH NAGAR,1,0
+Uttarakhand,UTTAR KASHI,1,0
+West Bengal,Darjeeling,0,1
+West Bengal,Kalipong,0,1

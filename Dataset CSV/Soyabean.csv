@@ -1,0 +1,223 @@
+State,District,Kharif
+Andhra Pradesh,ANANTAPUR,1
+Andhra Pradesh,KRISHNA,1
+Gujarat,AHMADABAD,1
+Gujarat,AMRELI,1
+Gujarat,ANAND,1
+Gujarat,ARAVALLI,1
+Gujarat,BHARUCH,1
+Gujarat,CHHOTAUDEPUR,1
+Gujarat,DANG,1
+Gujarat,DOHAD,1
+Gujarat,GIR SOMNATH,1
+Gujarat,JAMNAGAR,1
+Gujarat,JUNAGADH,1
+Gujarat,KHEDA,1
+Gujarat,MAHISAGAR,1
+Gujarat,NARMADA,1
+Gujarat,PANCH MAHALS,1
+Gujarat,RAJKOT,1
+Gujarat,SABAR KANTHA,1
+Gujarat,SURAT,1
+Gujarat,TAPI,1
+Gujarat,VADODARA,1
+Himachal Pradesh,BILASPUR,1
+Himachal Pradesh,CHAMBA,1
+Himachal Pradesh,KANGRA,1
+Himachal Pradesh,KULLU,1
+Himachal Pradesh,LAHUL AND SPITI,1
+Himachal Pradesh,MANDI,1
+Himachal Pradesh,SHIMLA,1
+Himachal Pradesh,SIRMAUR,1
+Himachal Pradesh,SOLAN,1
+Himachal Pradesh,UNA,1
+Karnataka,BAGALKOT,1
+Karnataka,BANGALORE RURAL,1
+Karnataka,BELGAUM,1
+Karnataka,BELLARY,1
+Karnataka,BENGALURU URBAN,1
+Karnataka,BIDAR,1
+Karnataka,BIJAPUR,1
+Karnataka,CHAMARAJANAGAR,1
+Karnataka,CHIKBALLAPUR,1
+Karnataka,CHIKMAGALUR,1
+Karnataka,CHITRADURGA,1
+Karnataka,DAKSHIN KANNAD,1
+Karnataka,DAVANGERE,1
+Karnataka,DHARWAD,1
+Karnataka,GADAG,1
+Karnataka,GULBARGA,1
+Karnataka,HASSAN,1
+Karnataka,HAVERI,1
+Karnataka,KODAGU,1
+Karnataka,KOLAR,1
+Karnataka,KOPPAL,1
+Karnataka,MANDYA,1
+Karnataka,MYSORE,1
+Karnataka,RAICHUR,1
+Karnataka,RAMANAGARA,1
+Karnataka,SHIMOGA,1
+Karnataka,TUMKUR,1
+Karnataka,UDUPI,1
+Karnataka,UTTAR KANNAD,1
+Madhya Pradesh,AGAR MALWA,1
+Madhya Pradesh,ALIRAJPUR,1
+Madhya Pradesh,ANUPPUR,1
+Madhya Pradesh,ASHOKNAGAR,1
+Madhya Pradesh,BALAGHAT,1
+Madhya Pradesh,BARWANI,1
+Madhya Pradesh,BETUL,1
+Madhya Pradesh,BHIND,1
+Madhya Pradesh,BHOPAL,1
+Madhya Pradesh,BURHANPUR,1
+Madhya Pradesh,CHHATARPUR,1
+Madhya Pradesh,CHHINDWARA,1
+Madhya Pradesh,DAMOH,1
+Madhya Pradesh,DATIA,1
+Madhya Pradesh,DEWAS,1
+Madhya Pradesh,DHAR,1
+Madhya Pradesh,DINDORI,1
+Madhya Pradesh,GUNA,1
+Madhya Pradesh,GWALIOR,1
+Madhya Pradesh,HARDA,1
+Madhya Pradesh,HOSHANGABAD,1
+Madhya Pradesh,INDORE,1
+Madhya Pradesh,JABALPUR,1
+Madhya Pradesh,JHABUA,1
+Madhya Pradesh,KATNI,1
+Madhya Pradesh,KHANDWA,1
+Madhya Pradesh,KHARGONE,1
+Madhya Pradesh,MANDLA,1
+Madhya Pradesh,MANDSAUR,1
+Madhya Pradesh,MORENA,1
+Madhya Pradesh,NARSINGHPUR,1
+Madhya Pradesh,NEEMUCH,1
+Madhya Pradesh,NIWARI,1
+Madhya Pradesh,PANNA,1
+Madhya Pradesh,RAISEN,1
+Madhya Pradesh,RAJGARH,1
+Madhya Pradesh,RATLAM,1
+Madhya Pradesh,REWA,1
+Madhya Pradesh,SAGAR,1
+Madhya Pradesh,SATNA,1
+Madhya Pradesh,SEHORE,1
+Madhya Pradesh,SEONI,1
+Madhya Pradesh,SHAHDOL,1
+Madhya Pradesh,SHAJAPUR,1
+Madhya Pradesh,SHEOPUR,1
+Madhya Pradesh,SHIVPURI,1
+Madhya Pradesh,SIDHI,1
+Madhya Pradesh,SINGRAULI,1
+Madhya Pradesh,TIKAMGARH,1
+Madhya Pradesh,UJJAIN,1
+Madhya Pradesh,UMARIA,1
+Madhya Pradesh,VIDISHA,1
+Maharashtra,AHMEDNAGAR,1
+Maharashtra,AKOLA,1
+Maharashtra,AMRAVATI,1
+Maharashtra,AURANGABAD,1
+Maharashtra,BEED,1
+Maharashtra,BHANDARA,1
+Maharashtra,BULDHANA,1
+Maharashtra,CHANDRAPUR,1
+Maharashtra,DHULE,1
+Maharashtra,GADCHIROLI,1
+Maharashtra,GONDIA,1
+Maharashtra,HINGOLI,1
+Maharashtra,JALGAON,1
+Maharashtra,JALNA,1
+Maharashtra,KOLHAPUR,1
+Maharashtra,LATUR,1
+Maharashtra,PUNE,1
+Maharashtra,RAIGAD,1
+Maharashtra,RATNAGIRI,1
+Maharashtra,SANGLI,1
+Maharashtra,SATARA,1
+Maharashtra,WARDHA,1
+Maharashtra,WASHIM,1
+Maharashtra,YAVATMAL,1
+Manipur,BISHNUPUR,1
+Manipur,CHANDEL,1
+Manipur,CHURACHANDPUR,1
+Manipur,IMPHAL EAST,1
+Manipur,IMPHAL WEST,1
+Manipur,SENAPATI,1
+Manipur,TAMENGLONG,1
+Manipur,THOUBAL,1
+Manipur,UKHRUL,1
+Meghalaya,EAST GARO HILLS,1
+Meghalaya,EAST JAINTIA HILLS,1
+Meghalaya,EAST KHASI HILLS,1
+Meghalaya,NORTH GARO HILLS,1
+Meghalaya,RI BHOI,1
+Meghalaya,SOUTH GARO HILLS,1
+Meghalaya,SOUTH WEST GARO HILLS,1
+Meghalaya,SOUTH WEST KHASI HILLS,1
+Meghalaya,WEST GARO HILLS,1
+Meghalaya,WEST JAINTIA HILLS,1
+Meghalaya,WEST KHASI HILLS,1
+Nagaland,DIMAPUR,1
+Nagaland,KIPHIRE,1
+Nagaland,KOHIMA,1
+Nagaland,LONGLENG,1
+Nagaland,MOKOKCHUNG,1
+Nagaland,MON,1
+Nagaland,PEREN,1
+Nagaland,PHEK,1
+Nagaland,TUENSANG,1
+Nagaland,WOKHA,1
+Nagaland,ZUNHEBOTO,1
+Sikkim,EAST DISTRICT,1
+Sikkim,NORTH DISTRICT,1
+Sikkim,SOUTH DISTRICT,1
+Sikkim,WEST DISTRICT,1
+Telangana,ADILABAD,1
+Telangana,BHADRADRI,1
+Telangana,JAGITIAL,1
+Telangana,KAMAREDDY,1
+Telangana,KARIMNAGAR,1
+Telangana,KHAMMAM,1
+Telangana,KOMARAM BHEEM ASIFABAD,1
+Telangana,MAHABUBABAD,1
+Telangana,MEDCHAL,1
+Telangana,MULUGU,1
+Telangana,NAGARKURNOOL,1
+Telangana,NALGONDA,1
+Telangana,NARAYANAPET,1
+Telangana,NIRMAL,1
+Telangana,WARANGAL URBAN,1
+Tripura,GOMATI,1
+Tripura,KHOWAI,1
+Tripura,NORTH TRIPURA,1
+Tripura,SEPAHIJALA,1
+Tripura,SOUTH TRIPURA,1
+Tripura,UNAKOTI,1
+Uttar Pradesh, BAHRAICH,1
+Uttar Pradesh, BANDA,1
+Uttar Pradesh, CHITRAKOOT,1
+Uttar Pradesh, HAMIRPUR,1
+Uttar Pradesh, HARDOI,1
+Uttar Pradesh, JALAUN,1
+Uttar Pradesh, JHANSI,1
+Uttar Pradesh, KANPUR DEHAT,1
+Uttar Pradesh, LALITPUR,1
+Uttar Pradesh, MAHOBA,1
+Uttar Pradesh, PILIBHIT,1
+Uttar Pradesh, RAMPUR,1
+Uttar Pradesh, SHAHJAHANPUR,1
+Uttarakhand,ALMORA,1
+Uttarakhand,BAGESHWAR,1
+Uttarakhand,CHAMOLI,1
+Uttarakhand,CHAMPAWAT,1
+Uttarakhand,DEHRADUN,1
+Uttarakhand,HARIDWAR,1
+Uttarakhand,NAINITAL,1
+Uttarakhand,PAURI GARHWAL,1
+Uttarakhand,PITHORAGARH,1
+Uttarakhand,RUDRA PRAYAG,1
+Uttarakhand,TEHRI GARHWAL,1
+Uttarakhand,UDAM SINGH NAGAR,1
+Uttarakhand,UTTAR KASHI,1
+West Bengal,BIRBHUM,1
+West Bengal,DARJEELING,1
+West Bengal,KALIMPONG,1

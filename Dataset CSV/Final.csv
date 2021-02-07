@@ -1,0 +1,3031 @@
+Crop,State,District,Season,SowingMonth,MinTemp,MaxTemp,SoilPHMin,SoilPHMax,MinRainfall,MaxRainfall
+Bajra,Andhra Pradesh,ANANTAPUR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Andhra Pradesh,EAST GODAVARI,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Andhra Pradesh,CHITTOOR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Andhra Pradesh,GUNTUR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Andhra Pradesh,KADAPA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Andhra Pradesh,KURNOOL,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Andhra Pradesh,PRAKASAM,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Andhra Pradesh,SPSR NELLORE,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Andhra Pradesh,SRIKAKULAM,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Andhra Pradesh,VISAKHAPATANAM,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Andhra Pradesh,VIZIANAGARAM,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Bihar,BHAGALPUR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Bihar,BHOJPUR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Bihar,BUXAR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Bihar,KATIHAR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Bihar,SIWAN,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Gujarat,AHMADABAD,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Gujarat,AMRELI,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Gujarat,ANAND,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Gujarat,ARAVALLI,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Gujarat,BANAS KANTHA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Gujarat,BHAVNAGAR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Gujarat,BOTAD,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Gujarat,DEVBHUMI DWARKA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Gujarat,GANDHINAGAR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Gujarat,GIR SOMNATH,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Gujarat,JAMNAGAR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Gujarat,JUNAGADH,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Gujarat,KACHCHH,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Gujarat,KHEDA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Gujarat,MAHESANA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Gujarat,MAHISAGAR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Gujarat,MORBI,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Gujarat,NARMADA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Gujarat,PANCH MAHALS,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Gujarat,PATAN,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Gujarat,RAJKOT,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Gujarat,SABAR KANTHA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Gujarat,SURAT,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Gujarat,SURENDRANAGAR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Gujarat,VADODARA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Himachal Pradesh,BILASPUR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Himachal Pradesh,HAMIRPUR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Himachal Pradesh,KANGRA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Himachal Pradesh,MANDI,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Himachal Pradesh,SHIMLA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Himachal Pradesh,SIRMAUR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Karnataka,BAGALKOT,Kharif,July,20,30,7.0,8.0,400,750
+Bajra,Karnataka,BANGALORE RURAL,Kharif,July,20,30,7.0,8.0,400,750
+Bajra,Karnataka,BELGAUM,Kharif,July,20,30,7.0,8.0,400,750
+Bajra,Karnataka,BELLARY,Kharif,July,20,30,7.0,8.0,400,750
+Bajra,Karnataka,BENGALURU URBAN,Kharif,July,20,30,7.0,8.0,400,750
+Bajra,Karnataka,BIDAR,Kharif,July,20,30,7.0,8.0,400,750
+Bajra,Karnataka,BIJAPUR,Kharif,July,20,30,7.0,8.0,400,750
+Bajra,Karnataka,CHAMARAJANAGAR,Kharif,July,20,30,7.0,8.0,400,750
+Bajra,Karnataka,CHIKBALLAPUR,Kharif,July,20,30,7.0,8.0,400,750
+Bajra,Karnataka,CHIKMAGALUR,Kharif,July,20,30,7.0,8.0,400,750
+Bajra,Karnataka,CHITRADURGA,Kharif,July,20,30,7.0,8.0,400,750
+Bajra,Karnataka,DAKSHIN KANNAD,Kharif,July,20,30,7.0,8.0,400,750
+Bajra,Karnataka,DAVANGERE,Kharif,July,20,30,7.0,8.0,400,750
+Bajra,Karnataka,DHARWAD,Kharif,July,20,30,7.0,8.0,400,750
+Bajra,Karnataka,GADAG,Kharif,July,20,30,7.0,8.0,400,750
+Bajra,Karnataka,GULBARGA,Kharif,July,20,30,7.0,8.0,400,750
+Bajra,Karnataka,HASSAN,Kharif,July,20,30,7.0,8.0,400,750
+Bajra,Karnataka,HAVERI,Kharif,July,20,30,7.0,8.0,400,750
+Bajra,Karnataka,KOLAR,Kharif,July,20,30,7.0,8.0,400,750
+Bajra,Karnataka,KOPPAL,Kharif,July,20,30,7.0,8.0,400,750
+Bajra,Karnataka,MANDYA,Kharif,July,20,30,7.0,8.0,400,750
+Bajra,Karnataka,MYSORE,Kharif,July,20,30,7.0,8.0,400,750
+Bajra,Karnataka,RAICHUR,Kharif,July,20,30,7.0,8.0,400,750
+Bajra,Karnataka,RAMANAGARA,Kharif,July,20,30,7.0,8.0,400,750
+Bajra,Karnataka,SHIMOGA,Kharif,July,20,30,7.0,8.0,400,750
+Bajra,Karnataka,TUMKUR,Kharif,July,20,30,7.0,8.0,400,750
+Bajra,Karnataka,UTTAR KANNAD,Kharif,July,20,30,7.0,8.0,400,750
+Bajra,Karnataka,YADGIR,Kharif,July,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,AGAR MALWA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,ALIRAJPUR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,ANUPPUR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,ASHOKNAGAR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,BALAGHAT,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,BARWANI,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,BETUL,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,BHIND,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,BHOPAL,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,BURHANPUR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,CHHATARPUR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,CHHINDWARA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,DATIA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,DEWAS,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,DHAR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,GUNA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,GWALIOR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,HARDA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,HOSHANGABAD,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,INDORE,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,JABALPUR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,JHABUA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,KHANDWA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,KHARGONE,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,MANDLA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,MANDSAUR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,MORENA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,NARSINGHPUR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,NEEMUCH,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,PANNA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,RAISEN,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,RAJGARH,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,RATLAM,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,REWA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,SAGAR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,SATNA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,SEHORE,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,SEONI,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,SHAHDOL,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,SHAJAPUR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,SHEOPUR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,SHIVPURI,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,SIDHI,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,SINGRAULI,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,TIKAMGARH,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,UJJAIN,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,UMARIA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Madhya Pradesh,VIDISHA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Nagaland,DIMAPUR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Nagaland,KIPHIRE,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Nagaland,KOHIMA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Nagaland,LONGLENG,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Nagaland,MOKOKCHUNG,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Nagaland,MON,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Nagaland,PEREN,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Nagaland,PHEK,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Nagaland,TUENSANG,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Nagaland,WOKHA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Nagaland,ZUNHEBOTO,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Telangana,JOGULAMBA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Telangana,MEDAK,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Telangana,NAGARKURNOOL,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Telangana,NALGONDA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Telangana,RANGAREDDI,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Telangana,SANGAREDDY,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Telangana,VIKARABAD,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,AGRA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,ALIGARH,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,ALLAHABAD,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,AMBEDKAR NAGAR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,AMETHI,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,AMROHA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,AURAIYA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,AZAMGARH,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,BAGHPAT,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,BAHRAICH,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,BALLIA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,BANDA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,BARABANKI,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,BAREILLY,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,BUDAUN,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,BULANDSHAHR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,CHANDAULI,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,CHITRAKOOT,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,DEORIA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,ETAH,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,ETAWAH,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,FAIZABAD,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,FARRUKHABAD,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,FATEHPUR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,FIROZABAD,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,GAUTAM BUDDHA NAGAR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,GHAZIPUR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,GORAKHPUR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,HAMIRPUR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,HAPUR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,HARDOI,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,HATHRAS,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,JALAUN,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,JAUNPUR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,JHANSI,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,KANNAUJ,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,KANPUR DEHAT,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,KANPUR NAGAR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,KASGANJ,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,KAUSHAMBI,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,KHERI,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,KUSHI NAGAR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,LUCKNOW,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,MAHOBA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,MAINPURI,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,MATHURA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,MAU,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,MEERUT,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,MIRZAPUR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,MORADABAD,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,PRATAPGARH,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,RAE BARELI,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,RAMPUR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,SAMBHAL,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,SANT KABEER NAGAR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,SANT RAVIDAS NAGAR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,SHAHJAHANPUR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,SITAPUR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,SONBHADRA,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,SULTANPUR,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,UNNAO,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,Uttar Pradesh,VARANASI,Kharif,June,20,30,7.0,8.0,400,750
+Bajra,West Bengal,PURULIA,Kharif,June,20,30,7.0,8.0,400,750
+Bajara,Gujarat,AHMADABAD,Summer,February,20,30,7.0,8.0,400,750
+Bajara,Gujarat,AMRELI,Summer,February,20,30,7.0,8.0,400,750
+Bajara,Gujarat,ANAND,Summer,February,20,30,7.0,8.0,400,750
+Bajara,Gujarat,ARAVALLI,Summer,February,20,30,7.0,8.0,400,750
+Bajara,Gujarat,BANAS KANTHA,Summer,February,20,30,7.0,8.0,400,750
+Bajara,Gujarat,BHARUCH,Summer,February,20,30,7.0,8.0,400,750
+Bajara,Gujarat,BHAVNAGAR,Summer,February,20,30,7.0,8.0,400,750
+Bajara,Gujarat,BOTAD,Summer,February,20,30,7.0,8.0,400,750
+Bajara,Gujarat,DOHAD,Summer,February,20,30,7.0,8.0,400,750
+Bajara,Gujarat,GANDHINAGAR,Summer,February,20,30,7.0,8.0,400,750
+Bajara,Gujarat,GIR SOMNATH,Summer,February,20,30,7.0,8.0,400,750
+Bajara,Gujarat,JUNAGADH,Summer,February,20,30,7.0,8.0,400,750
+Bajara,Gujarat,KACHCHH,Summer,February,20,30,7.0,8.0,400,750
+Bajara,Gujarat,KHEDA,Summer,February,20,30,7.0,8.0,400,750
+Bajara,Gujarat,MAHESANA,Summer,February,20,30,7.0,8.0,400,750
+Bajara,Gujarat,MAHISAGAR,Summer,February,20,30,7.0,8.0,400,750
+Bajara,Gujarat,MORBI,Summer,February,20,30,7.0,8.0,400,750
+Bajara,Gujarat,NARMADA,Summer,February,20,30,7.0,8.0,400,750
+Bajara,Gujarat,PANCH MAHALS,Summer,February,20,30,7.0,8.0,400,750
+Bajara,Gujarat,PATAN,Summer,February,20,30,7.0,8.0,400,750
+Bajara,Gujarat,PORBANDAR,Summer,February,20,30,7.0,8.0,400,750
+Bajara,Gujarat,RAJKOT,Summer,February,20,30,7.0,8.0,400,750
+Bajara,Gujarat,SABAR KANTHA,Summer,February,20,30,7.0,8.0,400,750
+Bajara,Gujarat,SURENDRANAGAR,Summer,February,20,30,7.0,8.0,400,750
+Bajara,Gujarat,VADODARA,Summer,February,20,30,7.0,8.0,400,750
+Bajara,Karnataka,BELLARY,Summer,January,20,30,7.0,8.0,400,750
+Bajara,Karnataka,DHARWAD,Summer,January,20,30,7.0,8.0,400,750
+Bajara,Karnataka,RAICHUR,Summer,January,20,30,7.0,8.0,400,750
+Bajara,Karnataka,TUMKUR,Summer,January,20,30,7.0,8.0,400,750
+Bajara,Karnataka,YADGIR,Summer,January,20,30,7.0,8.0,400,750
+Cashewnut,Andhra Pradesh,ANANTAPUR,Kharif,August,25,49,5.5,7.5,1000,2500
+Cashewnut,Andhra Pradesh,EAST GODAVARI,Kharif,August,25,49,5.5,7.5,1000,2500
+Cashewnut,Andhra Pradesh,WEST GODAVARI,Kharif,August,25,49,5.5,7.5,1000,2500
+Cashewnut,Andhra Pradesh,CHITTOOR,Kharif,August,25,49,5.5,7.5,1000,2500
+Cashewnut,Andhra Pradesh,GUNTUR,Kharif,August,25,49,5.5,7.5,1000,2500
+Cashewnut,Andhra Pradesh,KADAPA,Kharif,August,25,49,5.5,7.5,1000,2500
+Cashewnut,Andhra Pradesh,KRISHNA,Kharif,August,25,49,5.5,7.5,1000,2500
+Cashewnut,Andhra Pradesh,PRAKASAM,Kharif,August,25,49,5.5,7.5,1000,2500
+Cashewnut,Andhra Pradesh,SPSR NELLORE,Kharif,August,25,49,5.5,7.5,1000,2500
+Cashewnut,Andhra Pradesh,SRIKAKULAM,Kharif,August,25,49,5.5,7.5,1000,2500
+Cashewnut,Andhra Pradesh,VISAKHAPATANAM,Kharif,August,25,49,5.5,7.5,1000,2500
+Cashewnut,Andhra Pradesh,VIZIANAGARAM,Kharif,August,25,49,5.5,7.5,1000,2500
+Cashewnut,Telangana,BHADRADRI,Kharif,August,25,49,5.5,7.5,1000,2500
+Cashewnut,Telangana,KHAMMAM,Kharif,August,25,49,5.5,7.5,1000,2500
+Cashewnut,Telangana,KOMARAM BHEEM ASIFABAD,Kharif,August,25,49,5.5,7.5,1000,2500
+Cashewnut,Telangana,MANCHERIAL,Kharif,August,25,49,5.5,7.5,1000,2500
+Cashewnut,Telangana,MULUGU,Kharif,August,25,49,5.5,7.5,1000,2500
+Cashewnut,Telangana,SANGAREDDY,Kharif,August,25,49,5.5,7.5,1000,2500
+Cashewnut,Meghalaya,EAST GARO HILLS,Rabi,October,25,49,5.5,7.5,1000,2500
+Cashewnut,Meghalaya,NORTH GARO HILLS,Rabi,October,25,49,5.5,7.5,1000,2500
+Cashewnut,Meghalaya,SOUTH GARO HILLS,Rabi,October,25,49,5.5,7.5,1000,2500
+Cashewnut,Meghalaya,SOUTH WEST GARO HILLS,Rabi,October,25,49,5.5,7.5,1000,2500
+Cashewnut,Meghalaya,WEST GARO HILLS,Rabi,October,25,49,5.5,7.5,1000,2500
+Cashewnut,Goa,NORTH GOA,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Goa,SOUTH GOA,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Karnataka,BAGALKOT,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Karnataka,BANGALORE RURAL,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Karnataka,BELGAUM,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Karnataka,BELLARY,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Karnataka,BENGALURU URBAN,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Karnataka,BIDAR,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Karnataka,CHAMARAJANAGAR,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Karnataka,CHIKBALLAPUR,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Karnataka,CHIKMAGALUR,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Karnataka,CHITRADURGA,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Karnataka,DAKSHIN KANNAD,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Karnataka,DAVANGERE,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Karnataka,DHARWAD,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Karnataka,GADAG,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Karnataka,GULBARGA,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Karnataka,HASSAN,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Karnataka,HAVERI,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Karnataka,KODAGU,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Karnataka,KOLAR,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Karnataka,KOPPAL,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Karnataka,MANDYA,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Karnataka,MYSORE,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Karnataka,RAMANAGARA,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Karnataka,SHIMOGA,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Karnataka,TUMKUR,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Karnataka,UDUPI,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Karnataka,UTTAR KANNAD,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Karnataka,YADGIR,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Kerala,ALAPPUZHA,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Kerala,ERNAKULAM,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Kerala,IDUKKI,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Kerala,KANNUR,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Kerala,KASARAGOD,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Kerala,KOLLAM,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Kerala,KOTTAYAM,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Kerala,KOZHIKODE,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Kerala,MALAPPURAM,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Kerala,PALAKKAD,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Kerala,PATHANAMTHITTA,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Kerala,THIRUVANANTHAPURAM,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Kerala,THRISSUR,WholeYear,June,25,49,5.5,7.5,1000,2500
+Cashewnut,Kerala,WAYANAD,WholeYear,June,25,49,5.5,7.5,1000,2500
+Coconut,Andaman and Nicobar Islands,NICOBARS,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Andaman and Nicobar Islands,NORTH AND MIDDLE ANDAMAN,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Andaman and Nicobar Islands,SOUTH ANDAMANS,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Andhra Pradesh,ANANTAPUR,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Andhra Pradesh,EAST GODAVARI,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Andhra Pradesh,WEST GODAVARI,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Andhra Pradesh,CHITTOOR,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Andhra Pradesh,GUNTUR,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Andhra Pradesh,KADAPA,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Andhra Pradesh,KRISHNA,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Andhra Pradesh,KURNOOL,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Andhra Pradesh,PRAKASAM,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Andhra Pradesh,SPSR NELLORE,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Andhra Pradesh,SRIKAKULAM,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Andhra Pradesh,VISAKHAPATANAM,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Andhra Pradesh,VIZIANAGARAM,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Goa,NORTH GOA,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Goa,SOUTH GOA,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,BAGALKOT,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,BANGALORE RURAL,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,BELGAUM,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,BELLARY,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,BENGALURU URBAN,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,BIDAR,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,BIJAPUR,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,CHAMARAJANAGAR,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,CHIKBALLAPUR,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,CHIKMAGALUR,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,CHITRADURGA,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,DAKSHIN KANNAD,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,DAVANGERE,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,DHARWAD,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,GADAG,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,GULBARGA,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,HASSAN,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,HAVERI,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,KODAGU,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,KOLAR,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,KOPPAL,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,MANDYA,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,MYSORE,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,RAICHUR,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,RAMANAGARA,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,SHIMOGA,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,TUMKUR,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,UDUPI,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,UTTAR KANNAD,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Karnataka,YADGIR,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Kerala,ALAPPUZHA,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Kerala,ERNAKULAM,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Kerala,IDUKKI,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Kerala,KANNUR,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Kerala,KASARAGOD,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Kerala,KOLLAM,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Kerala,KOTTAYAM,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Kerala,KOZHIKODE,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Kerala,MALAPPURAM,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Kerala,PALAKKAD,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Kerala,PATHANAMTHITTA,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Kerala,THIRUVANANTHAPURAM,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Kerala,THRISSUR,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,Kerala,WAYANAD,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,West Bengal,24 PARAGANAS NORTH,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,West Bengal,24 PARAGANAS SOUTH,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,West Bengal,ALIPURDUAR,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,West Bengal,BANKURA,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,West Bengal,BIRBHUM,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,West Bengal,COOCHBEHAR,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,West Bengal,DARJEELING,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,West Bengal,DINAJPUR DAKSHIN,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,West Bengal,DINAJPUR UTTAR,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,West Bengal,HOOGHLY,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,West Bengal,HOWRAH,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,West Bengal,JALPAIGURI,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,West Bengal,JHARGRAM,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,West Bengal,KALIMPONG,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,West Bengal,MALDAH,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,West Bengal,MEDINIPUR EAST,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,West Bengal,MEDINIPUR WEST,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,West Bengal,MURSHIDABAD,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,West Bengal,NADIA,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,West Bengal,PASCHIM BARDHAMAN,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,West Bengal,PURBA BARDHAMAN,WholeYear,June,19,30,5.5,7.5,1000,3000
+Coconut,West Bengal,PURULIA,WholeYear,June,19,30,5.5,7.5,1000,3000
+Cotton,Andhra Pradesh,ANANTAPUR,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Andhra Pradesh,EAST GODAVARI,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Andhra Pradesh,WEST GODAVARI,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Andhra Pradesh,CHITTOOR,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Andhra Pradesh,GUNTUR,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Andhra Pradesh,KADAPA,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Andhra Pradesh,KRISHNA,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Andhra Pradesh,KURNOOL,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Andhra Pradesh,PRAKASAM,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Andhra Pradesh,SPSR NELLORE,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Andhra Pradesh,SRIKAKULAM,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Andhra Pradesh,VISAKHAPATANAM,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Andhra Pradesh,VIZIANAGARAM,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,AHMADABAD,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,AMRELI,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,ANAND,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,ARAVALLI,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,BANAS KANTHA,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,BHARUCH,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,BHAVNAGAR,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,BOTAD,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,CHHOTAUDEPUR,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,DANG,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,DEVBHUMI DWARKA,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,DOHAD,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,GANDHINAGAR,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,GIR SOMNATH,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,JAMNAGAR,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,JUNAGADH,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,KACHCHH,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,KHEDA,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,MAHESANA,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,MAHISAGAR,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,MORBI,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,NARMADA,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,NAVSARI,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,PANCH MAHALS,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,PATAN,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,PORBANDAR,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,RAJKOT,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,SABAR KANTHA,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,SURAT,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,SURENDRANAGAR,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,TAPI,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,VADODARA,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Gujarat,VALSAD,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Himachal Pradesh,KANGRA,Kharif,May,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,BAGALKOT,Kharif,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,BANGALORE RURAL,Kharif,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,BELGAUM,Kharif,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,BELLARY,Kharif,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,BENGALURU URBAN,Kharif,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,BIDAR,Kharif,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,BIJAPUR,Kharif,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,CHAMARAJANAGAR,Kharif,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,CHIKBALLAPUR,Kharif,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,CHIKMAGALUR,Kharif,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,CHITRADURGA,Kharif,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,DAVANGERE,Kharif,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,DHARWAD,Kharif,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,GADAG,Kharif,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,GULBARGA,Kharif,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,HASSAN,Kharif,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,HAVERI,Kharif,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,KOPPAL,Kharif,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,MANDYA,Kharif,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,MYSORE,Kharif,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,RAICHUR,Kharif,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,RAMANAGARA,Kharif,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,SHIMOGA,Kharif,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,TUMKUR,Kharif,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,UTTAR KANNAD,Kharif,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,YADGIR,Kharif,August,21,30,6.0,7.0,850,1100
+Cotton,Kerala,Palakkad,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,ALIRAJPUR,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,BARWANI,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,BETUL,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,BURHANPUR,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,CHHATARPUR,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,CHHINDWARA,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,DATIA,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,DEWAS,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,DHAR,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,DINDORI,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,GUNA,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,HARDA,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,INDORE,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,JHABUA,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,KHANDWA,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,KHARGONE,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,MANDSAUR,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,MORENA,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,NARSINGHPUR,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,NEEMUCH,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,RAISEN,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,RAJGARH,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,RATLAM,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,SEONI,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,SHEOPUR,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,SHIVPURI,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,SIDHI,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,TIKAMGARH,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,UJJAIN,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Madhya Pradesh,VIDISHA,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Maharashtra,AHMEDNAGAR,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Maharashtra,AKOLA,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Maharashtra,AMRAVATI,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Maharashtra,AURANGABAD,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Maharashtra,BEED,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Maharashtra,BHANDARA,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Maharashtra,BULDHANA,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Maharashtra,CHANDRAPUR,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Maharashtra,DHULE,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Maharashtra,GADCHIROLI,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Maharashtra,HINGOLI,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Maharashtra,JALGAON,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Maharashtra,JALNA,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Maharashtra,LATUR,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Maharashtra,NAGPUR,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Maharashtra,NANDED,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Maharashtra,NANDURBAR,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Maharashtra,NASHIK,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Maharashtra,OSMANABAD,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Maharashtra,PARBHANI,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Maharashtra,SANGLI,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Maharashtra,SATARA,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Maharashtra,SOLAPUR,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Maharashtra,WARDHA,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Maharashtra,WASHIM,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Maharashtra,YAVATMAL,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Meghalaya,EAST GARO HILLS,Kharif,July,21,30,6.0,7.0,850,1100
+Cotton,Meghalaya,NORTH GARO HILLS,Kharif,July,21,30,6.0,7.0,850,1100
+Cotton,Meghalaya,SOUTH GARO HILLS,Kharif,July,21,30,6.0,7.0,850,1100
+Cotton,Meghalaya,SOUTH WEST GARO HILLS,Kharif,July,21,30,6.0,7.0,850,1100
+Cotton,Meghalaya,WEST GARO HILLS,Kharif,July,21,30,6.0,7.0,850,1100
+Cotton,Nagaland,Dimapur,Kharif,July,21,30,6.0,7.0,850,1100
+Cotton,Nagaland,Phek,Kharif,July,21,30,6.0,7.0,850,1100
+Cotton,Telangana,ADILABAD,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,BHADRADRI,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,HYDERABAD,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,JAGITIAL,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,JANGOAN,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,JAYASHANKAR,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,JOGULAMBA,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,KAMAREDDY,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,KARIMNAGAR,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,KHAMMAM,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,KOMARAM BHEEM ASIFABAD,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,MAHABUBABAD,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,MAHBUBNAGAR,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,MANCHERIAL,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,MEDAK,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,MEDCHAL,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,MULUGU,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,NAGARKURNOOL,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,NALGONDA,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,NARAYANAPET,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,NIRMAL,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,NIZAMABAD,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,PEDDAPALLI,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,RAJANNA,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,RANGAREDDI,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,SANGAREDDY,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,SIDDIPET,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,SURYAPET,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,VIKARABAD,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,WANAPARTHY,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,WARANGAL,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,WARANGAL URBAN,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Telangana,YADADRI,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Tripura,DHALAI,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Tripura,GOMATI,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Tripura,KHOWAI,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Tripura,NORTH TRIPURA,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Tripura,SEPAHIJALA,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Tripura,SOUTH TRIPURA,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Tripura,UNAKOTI,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Tripura,WEST TRIPURA,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Uttar Pradesh,AGRA,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Uttar Pradesh,ALIGARH,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Uttar Pradesh,BAGHPAT,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Uttar Pradesh,BULANDSHAHR,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Uttar Pradesh,ETAH,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Uttar Pradesh,FIROZABAD,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Uttar Pradesh,GAUTAM BUDDHA NAGAR,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Uttar Pradesh,HATHRAS,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Uttar Pradesh,MATHURA,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Uttar Pradesh,MEERUT,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Uttar Pradesh,MUZAFFARNAGAR,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Uttar Pradesh,SAHARANPUR,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Uttar Pradesh,SANT KABEER NAGAR,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Uttar Pradesh,SANT RAVIDAS NAGAR,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,Uttar Pradesh,SITAPUR,Kharif,June,21,30,6.0,7.0,850,1100
+Cotton,West Bengal,24 PARAGANAS SOUTH,Kharif,October,21,30,6.0,7.0,850,1100
+Cotton,Andhra Pradesh,ANANTAPUR,Rabi,June,21,30,6.0,7.0,850,1100
+Cotton,Andhra Pradesh,EAST GODAVARI,Rabi,June,21,30,6.0,7.0,850,1100
+Cotton,Andhra Pradesh,GUNTUR,Rabi,June,21,30,6.0,7.0,850,1100
+Cotton,Andhra Pradesh,KADAPA,Rabi,June,21,30,6.0,7.0,850,1100
+Cotton,Andhra Pradesh,PRAKASAM,Rabi,June,21,30,6.0,7.0,850,1100
+Cotton,Andhra Pradesh,SPSR NELLORE,Rabi,June,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,BELLARY,Rabi,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,BIJAPUR,Rabi,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,CHITRADURGA,Rabi,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,DHARWAD,Rabi,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,GADAG,Rabi,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,HAVERI,Rabi,August,21,30,6.0,7.0,850,1100
+Cotton,Karnataka,KOPPAL,Rabi,August,21,30,6.0,7.0,850,1100
+Cotton,Kerala,Palakkad,Rabi,June,21,30,6.0,7.0,850,1100
+Gram,Andhra Pradesh,ANANTAPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Andhra Pradesh,EAST GODAVARI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Andhra Pradesh,WEST GODAVARI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Andhra Pradesh,CHITTOOR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Andhra Pradesh,GUNTUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Andhra Pradesh,KADAPA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Andhra Pradesh,KRISHNA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Andhra Pradesh,KURNOOL,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Andhra Pradesh,PRAKASAM,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Andhra Pradesh,SRIKAKULAM,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Andhra Pradesh,VISAKHAPATANAM,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Andhra Pradesh,VIZIANAGARAM,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,ARARIA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,ARWAL,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,AURANGABAD,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,BANKA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,BEGUSARAI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,BHAGALPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,BHOJPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,BUXAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,DARBHANGA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,GAYA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,GOPALGANJ,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,JAMUI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,JEHANABAD,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,KAIMUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,KATIHAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,KHAGARIA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,KISHANGANJ,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,LAKHISARAI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,MADHEPURA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,MADHUBANI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,MUNGER,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,MUZAFFARPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,NALANDA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,NAWADA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,PASHCHIM CHAMPARAN,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,PATNA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,ROHTAS,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,SAMASTIPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,SARAN,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,SHEIKHPURA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,SIWAN,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Bihar,VAISHALI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,AHMADABAD,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,AMRELI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,ANAND,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,ARAVALLI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,BANAS KANTHA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,BHARUCH,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,BHAVNAGAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,BOTAD,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,CHHOTAUDEPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,DANG,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,DEVBHUMI DWARKA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,DOHAD,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,GANDHINAGAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,GIR SOMNATH,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,JAMNAGAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,JUNAGADH,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,KACHCHH,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,KHEDA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,MAHESANA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,MAHISAGAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,MORBI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,NARMADA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,NAVSARI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,PANCH MAHALS,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,PATAN,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,PORBANDAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,RAJKOT,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,SABAR KANTHA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,SURAT,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,SURENDRANAGAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,TAPI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,VADODARA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Gujarat,VALSAD,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Himachal Pradesh,BILASPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Himachal Pradesh,HAMIRPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Himachal Pradesh,KANGRA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Himachal Pradesh,KULLU,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Himachal Pradesh,LAHUL AND SPITI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Himachal Pradesh,MANDI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Himachal Pradesh,SHIMLA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Himachal Pradesh,SIRMAUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Himachal Pradesh,SOLAN,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Himachal Pradesh,UNA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Karnataka,BAGALKOT,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Karnataka,BANGALORE RURAL,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Karnataka,BELGAUM,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Karnataka,BELLARY,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Karnataka,BENGALURU URBAN,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Karnataka,BIDAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Karnataka,BIJAPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Karnataka,CHAMARAJANAGAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Karnataka,CHIKBALLAPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Karnataka,CHIKMAGALUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Karnataka,CHITRADURGA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Karnataka,DAVANGERE,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Karnataka,DHARWAD,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Karnataka,GADAG,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Karnataka,GULBARGA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Karnataka,HASSAN,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Karnataka,HAVERI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Karnataka,KOLAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Karnataka,KOPPAL,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Karnataka,MANDYA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Karnataka,MYSORE,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Karnataka,RAICHUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Karnataka,RAMANAGARA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Karnataka,SHIMOGA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Karnataka,TUMKUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Karnataka,UTTAR KANNAD,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Karnataka,YADGIR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,AGAR MALWA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,ALIRAJPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,ANUPPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,ASHOKNAGAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,BALAGHAT,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,BARWANI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,BETUL,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,BHIND,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,BHOPAL,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,BURHANPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,CHHATARPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,CHHINDWARA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,DAMOH,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,DATIA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,DEWAS,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,DHAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,DINDORI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,GUNA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,GWALIOR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,HARDA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,HOSHANGABAD,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,INDORE,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,JABALPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,JHABUA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,KATNI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,KHANDWA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,KHARGONE,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,MANDLA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,MANDSAUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,MORENA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,NARSINGHPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,NEEMUCH,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,NIWARI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,PANNA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,RAISEN,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,RAJGARH,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,RATLAM,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,REWA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,SAGAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,SATNA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,SEHORE,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,SEONI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,SHAHDOL,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,SHAJAPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,SHEOPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,SHIVPURI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,SIDHI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,SINGRAULI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,TIKAMGARH,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,UJJAIN,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,UMARIA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Madhya Pradesh,VIDISHA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,AHMEDNAGAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,AKOLA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,AMRAVATI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,AURANGABAD,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,BEED,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,BHANDARA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,BULDHANA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,CHANDRAPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,DHULE,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,GADCHIROLI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,GONDIA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,HINGOLI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,JALGAON,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,JALNA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,KOLHAPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,LATUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,NAGPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,NANDED,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,NANDURBAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,NASHIK,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,OSMANABAD,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,PALGHAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,PARBHANI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,PUNE,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,SANGLI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,SATARA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,SINDHUDURG,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,SOLAPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,THANE,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,WARDHA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,WASHIM,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Maharashtra,YAVATMAL,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Manipur,BISHNUPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Manipur,CHANDEL,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Manipur,CHURACHANDPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Manipur,IMPHAL EAST,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Manipur,IMPHAL WEST,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Manipur,SENAPATI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Manipur,TAMENGLONG,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Manipur,THOUBAL,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Manipur,UKHRUL,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Meghalaya,EAST GARO HILLS,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Meghalaya,NORTH GARO HILLS,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Meghalaya,SOUTH GARO HILLS,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Meghalaya,SOUTH WEST GARO HILLS,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Meghalaya,WEST GARO HILLS,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Nagaland,DIMAPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Nagaland,KIPHIRE,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Nagaland,KOHIMA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Nagaland,LONGLENG,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Nagaland,MOKOKCHUNG,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Nagaland,MON,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Nagaland,PEREN,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Nagaland,PHEK,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Nagaland,TUENSANG,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Nagaland,WOKHA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Nagaland,ZUNHEBOTO,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,ADILABAD,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,BHADRADRI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,HYDERABAD,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,JAGITIAL,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,JANGOAN,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,JAYASHANKAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,JOGULAMBA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,KAMAREDDY,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,KARIMNAGAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,KHAMMAM,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,KOMARAM BHEEM ASIFABAD,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,MAHABUBABAD,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,MAHBUBNAGAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,MANCHERIAL,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,MEDAK,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,MEDCHAL,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,MULUGU,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,NAGARKURNOOL,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,NALGONDA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,NARAYANAPET,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,NIRMAL,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,NIZAMABAD,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,PEDDAPALLI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,RAJANNA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,RANGAREDDI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,SANGAREDDY,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,SIDDIPET,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,SURYAPET,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,VIKARABAD,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,WANAPARTHY,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,WARANGAL,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,WARANGAL URBAN,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Telangana,YADADRI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Tripura,DHALAI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Tripura,GOMATI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Tripura,KHOWAI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Tripura,NORTH TRIPURA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Tripura,SEPAHIJALA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Tripura,SOUTH TRIPURA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Tripura,UNAKOTI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Tripura,WEST TRIPURA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,AGRA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,ALIGARH,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,ALLAHABAD,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,AMBEDKAR NAGAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,AMETHI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,AMROHA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,AURAIYA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,AZAMGARH,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,BAGHPAT,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,BAHRAICH,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,BALLIA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,BALRAMPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,BANDA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,BARABANKI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,BAREILLY,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,BASTI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,BIJNOR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,BUDAUN,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,BULANDSHAHR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,CHANDAULI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,CHITRAKOOT,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,DEORIA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,ETAH,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,ETAWAH,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,FAIZABAD,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,FARRUKHABAD,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,FATEHPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,FIROZABAD,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,GAUTAM BUDDHA NAGAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,GHAZIABAD,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,GHAZIPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,GONDA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,GORAKHPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,HAMIRPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,HAPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,HARDOI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,HATHRAS,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,JALAUN,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,JAUNPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,JHANSI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,KANNAUJ,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,KANPUR DEHAT,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,KANPUR NAGAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,KASGANJ,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,KAUSHAMBI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,KHERI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,KUSHI NAGAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,LALITPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,LUCKNOW,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,MAHARAJGANJ,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,MAHOBA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,MAINPURI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,MATHURA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,MAU,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,MEERUT,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,MIRZAPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,MORADABAD,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,MUZAFFARNAGAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,PILIBHIT,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,PRATAPGARH,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,RAE BARELI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,RAMPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,SAHARANPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,SAMBHAL,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,SANT KABEER NAGAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,SANT RAVIDAS NAGAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,SHAHJAHANPUR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,SHAMLI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttar Pradesh,SHRAVASTI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttarakhand,ALMORA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttarakhand,BAGESHWAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttarakhand,CHAMPAWAT,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttarakhand,DEHRADUN,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttarakhand,HARIDWAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttarakhand,NAINITAL,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttarakhand,PAURI GARHWAL,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttarakhand,PITHORAGARH,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttarakhand,TEHRI GARHWAL,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttarakhand,UDAM SINGH NAGAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,Uttarakhand,UTTAR KASHI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,West Bengal,24 PARAGANAS NORTH,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,West Bengal,24 PARAGANAS SOUTH,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,West Bengal,ALIPURDUAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,West Bengal,BANKURA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,West Bengal,BIRBHUM,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,West Bengal,DARJEELING,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,West Bengal,DINAJPUR DAKSHIN,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,West Bengal,DINAJPUR UTTAR,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,West Bengal,HOOGHLY,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,West Bengal,HOWRAH,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,West Bengal,JALPAIGURI,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,West Bengal,JHARGRAM,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,West Bengal,MALDAH,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,West Bengal,MEDINIPUR EAST,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,West Bengal,MEDINIPUR WEST,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,West Bengal,MURSHIDABAD,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,West Bengal,NADIA,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,West Bengal,PASCHIM BARDHAMAN,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,West Bengal,PURBA BARDHAMAN,Rabi,October,20,25,6.5,7.8,600,1000
+Gram,West Bengal,PURULIA,Rabi,October,20,25,6.5,7.8,600,1000
+Jowar,Andhra Pradesh,ANANTAPUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Andhra Pradesh,EAST GODAVARI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Andhra Pradesh,CHITTOOR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Andhra Pradesh,GUNTUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Andhra Pradesh,KADAPA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Andhra Pradesh,KURNOOL,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Andhra Pradesh,PRAKASAM,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Andhra Pradesh,SPSR NELLORE,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Andhra Pradesh,SRIKAKULAM,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Andhra Pradesh,VISAKHAPATANAM,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Andhra Pradesh,VIZIANAGARAM,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Bihar,BEGUSARAI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Bihar,BHAGALPUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Bihar,BHOJPUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Bihar,BUXAR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Bihar,PATNA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Gujarat,AMRELI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Gujarat,ANAND,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Gujarat,ARAVALLI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Gujarat,BANAS KANTHA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Gujarat,BHARUCH,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Gujarat,CHHOTAUDEPUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Gujarat,GIR SOMNATH,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Gujarat,JAMNAGAR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Gujarat,KACHCHH,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Gujarat,MAHISAGAR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Gujarat,MORBI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Gujarat,NARMADA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Gujarat,NAVSARI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Gujarat,PANCH MAHALS,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Gujarat,PATAN,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Gujarat,PORBANDAR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Gujarat,RAJKOT,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Gujarat,SABAR KANTHA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Gujarat,SURAT,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Gujarat,TAPI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Gujarat,VALSAD,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,BAGALKOT,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,BANGALORE RURAL,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,BELGAUM,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,BELLARY,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,BENGALURU URBAN,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,BIDAR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,BIJAPUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,CHAMARAJANAGAR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,CHIKBALLAPUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,CHIKMAGALUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,CHITRADURGA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,DAKSHIN KANNAD,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,DAVANGERE,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,DHARWAD,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,GADAG,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,GULBARGA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,HASSAN,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,HAVERI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,KODAGU,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,KOLAR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,KOPPAL,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,MANDYA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,MYSORE,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,RAICHUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,RAMANAGARA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,SHIMOGA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,TUMKUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,UDUPI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,UTTAR KANNAD,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Karnataka,YADGIR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,AGAR MALWA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,ALIRAJPUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,ANUPPUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,ASHOKNAGAR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,BALAGHAT,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,BARWANI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,BETUL,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,BHIND,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,BHOPAL,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,BURHANPUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,CHHATARPUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,CHHINDWARA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,DAMOH,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,DATIA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,DEWAS,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,DHAR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,DINDORI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,GUNA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,GWALIOR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,HARDA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,HOSHANGABAD,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,INDORE,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,JABALPUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,JHABUA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,KATNI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,KHANDWA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,KHARGONE,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,MANDLA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,MANDSAUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,MORENA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,NARSINGHPUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,NEEMUCH,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,NIWARI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,PANNA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,RAISEN,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,RAJGARH,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,RATLAM,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,REWA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,SAGAR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,SATNA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,SEHORE,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,SEONI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,SHAHDOL,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,SHAJAPUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,SHEOPUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,SHIVPURI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,SIDHI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,SINGRAULI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,TIKAMGARH,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,UJJAIN,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,UMARIA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Madhya Pradesh,VIDISHA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,AHMEDNAGAR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,AKOLA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,AMRAVATI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,AURANGABAD,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,BEED,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,BHANDARA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,BULDHANA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,CHANDRAPUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,DHULE,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,GADCHIROLI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,GONDIA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,HINGOLI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,JALGAON,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,JALNA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,KOLHAPUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,LATUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,NAGPUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,NANDED,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,NANDURBAR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,NASHIK,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,OSMANABAD,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,PALGHAR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,PARBHANI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,PUNE,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,SANGLI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,SATARA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,SINDHUDURG,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,SOLAPUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,WARDHA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,WASHIM,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,YAVATMAL,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Nagaland,KOHIMA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Nagaland,MON,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Nagaland,PHEK,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Nagaland,WOKHA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Nagaland,ZUNHEBOTO,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Telangana,ADILABAD,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Telangana,JANGOAN,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Telangana,JAYASHANKAR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Telangana,JOGULAMBA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Telangana,KAMAREDDY,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Telangana,KHAMMAM,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Telangana,KOMARAM BHEEM ASIFABAD,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Telangana,MAHBUBNAGAR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Telangana,MANCHERIAL,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Telangana,MEDAK,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Telangana,MEDCHAL,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Telangana,NAGARKURNOOL,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Telangana,NARAYANAPET,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Telangana,NIRMAL,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Telangana,RANGAREDDI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Telangana,SANGAREDDY,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Telangana,SIDDIPET,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Telangana,SURYAPET,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Telangana,VIKARABAD,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Telangana,WANAPARTHY,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Telangana,WARANGAL,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Telangana,YADADRI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Tripura,DHALAI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Tripura,GOMATI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Tripura,KHOWAI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Tripura,NORTH TRIPURA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Tripura,SEPAHIJALA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Tripura,SOUTH TRIPURA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Tripura,UNAKOTI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Tripura,WEST TRIPURA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,AGRA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,ALIGARH,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,ALLAHABAD,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,AMBEDKAR NAGAR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,AMETHI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,AURAIYA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,AZAMGARH,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,BAHRAICH,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,BALLIA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,BANDA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,BARABANKI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,BAREILLY,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,BUDAUN,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,BULANDSHAHR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,CHANDAULI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,CHITRAKOOT,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,DEORIA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,ETAH,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,FAIZABAD,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,FARRUKHABAD,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,FATEHPUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,FIROZABAD,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,GAUTAM BUDDHA NAGAR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,GHAZIABAD,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,HAMIRPUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,HARDOI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,HATHRAS,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,JALAUN,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,JAUNPUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,JHANSI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,KANNAUJ,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,KANPUR DEHAT,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,KANPUR NAGAR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,KASGANJ,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,KAUSHAMBI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,KHERI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,LALITPUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,LUCKNOW,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,MAHOBA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,MAINPURI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,MATHURA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,MAU,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,MEERUT,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,MIRZAPUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,MORADABAD,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,MUZAFFARNAGAR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,RAE BARELI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,RAMPUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,SAMBHAL,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,SANT KABEER NAGAR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,SANT RAVIDAS NAGAR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,SHAHJAHANPUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,SHRAVASTI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,SITAPUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,SONBHADRA,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,SULTANPUR,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,UNNAO,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Uttar Pradesh,VARANASI,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,West Bengal,Purulia,Kharif,June,25,35,5.5,8.0,300,650
+Jowar,Andhra Pradesh,ANANTAPUR,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Andhra Pradesh,EAST GODAVARI,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Andhra Pradesh,WEST GODAVARI,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Andhra Pradesh,GUNTUR,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Andhra Pradesh,KADAPA,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Andhra Pradesh,KRISHNA,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Andhra Pradesh,KURNOOL,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Andhra Pradesh,PRAKASAM,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Andhra Pradesh,SPSR NELLORE,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Gujarat,ARAVALLI,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Gujarat,BHARUCH,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Gujarat,BHAVNAGAR,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Gujarat,CHHOTAUDEPUR,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Gujarat,DOHAD,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Gujarat,GIR SOMNATH,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Gujarat,JUNAGADH,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Gujarat,MORBI,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Gujarat,NARMADA,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Gujarat,NAVSARI,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Gujarat,PANCH MAHALS,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Gujarat,PORBANDAR,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Gujarat,RAJKOT,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Gujarat,SURAT,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Gujarat,TAPI,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Gujarat,VADODARA,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Gujarat,VALSAD,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,BAGALKOT,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,BANGALORE RURAL,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,BELGAUM,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,BELLARY,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,BENGALURU URBAN,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,BIDAR,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,BIJAPUR,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,CHAMARAJANAGAR,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,CHIKBALLAPUR,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,CHIKMAGALUR,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,CHITRADURGA,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,DAKSHIN KANNAD,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,DAVANGERE,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,DHARWAD,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,GADAG,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,GULBARGA,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,HASSAN,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,HAVERI,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,KODAGU,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,KOLAR,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,KOPPAL,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,MANDYA,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,MYSORE,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,RAICHUR,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,RAMANAGARA,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,SHIMOGA,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,TUMKUR,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,UDUPI,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,UTTAR KANNAD,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Karnataka,YADGIR,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,AHMEDNAGAR,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,AKOLA,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,AMRAVATI,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,AURANGABAD,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,BEED,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,BHANDARA,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,BULDHANA,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,CHANDRAPUR,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,DHULE,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,GONDIA,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,HINGOLI,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,JALGAON,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,JALNA,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,KOLHAPUR,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,LATUR,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,NAGPUR,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,NANDED,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,NANDURBAR,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,NASHIK,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,OSMANABAD,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,PALGHAR,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,PARBHANI,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,PUNE,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,SANGLI,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,SATARA,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,SINDHUDURG,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,SOLAPUR,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,WARDHA,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,WASHIM,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Maharashtra,YAVATMAL,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Telangana,ADILABAD,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Telangana,BHADRADRI,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Telangana,JAGITIAL,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Telangana,JANGOAN,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Telangana,JAYASHANKAR,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Telangana,JOGULAMBA,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Telangana,KAMAREDDY,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Telangana,KHAMMAM,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Telangana,KOMARAM BHEEM ASIFABAD,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Telangana,MAHABUBABAD,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Telangana,MANCHERIAL,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Telangana,MEDAK,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Telangana,MEDCHAL,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Telangana,MULUGU,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Telangana,NAGARKURNOOL,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Telangana,NARAYANAPET,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Telangana,NIRMAL,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Telangana,NIZAMABAD,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Telangana,RANGAREDDI,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Telangana,SANGAREDDY,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Telangana,SURYAPET,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Telangana,VIKARABAD,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Telangana,WANAPARTHY,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Telangana,WARANGAL,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Telangana,YADADRI,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Tripura,DHALAI,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Tripura,GOMATI,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Tripura,KHOWAI,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Tripura,NORTH TRIPURA,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Tripura,SEPAHIJALA,Rabi,September,25,35,5.5,8.0,300,650
+Jowar,Tripura,SOUTH TRIPURA,Rabi,September,25,35,5.5,8.0,300,650
+Rice,Andhra Pradesh,ANANTAPUR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Andhra Pradesh,EAST GODAVARI,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Andhra Pradesh,WEST GODAVARI,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Andhra Pradesh,CHITTOOR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Andhra Pradesh,GUNTUR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Andhra Pradesh,KADAPA,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Andhra Pradesh,KRISHNA,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Andhra Pradesh,KURNOOL,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Andhra Pradesh,PRAKASAM,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Andhra Pradesh,SPSR NELLORE,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Andhra Pradesh,SRIKAKULAM,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Andhra Pradesh,VISAKHAPATANAM,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Andhra Pradesh,VIZIANAGARAM,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Goa,North Goa,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Goa,South Goa,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Gujarat,AHMADABAD,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Gujarat,ANAND,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Gujarat,ARAVALLI,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Gujarat,BHARUCH,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Gujarat,CHHOTAUDEPUR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Gujarat,DANG,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Gujarat,DOHAD,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Gujarat,GANDHINAGAR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Gujarat,KHEDA,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Gujarat,MAHESANA,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Gujarat,MAHISAGAR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Gujarat,NARMADA,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Gujarat,NAVSARI,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Gujarat,PANCH MAHALS,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Gujarat,SABAR KANTHA,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Gujarat,SURAT,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Gujarat,SURENDRANAGAR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Gujarat,TAPI,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Gujarat,VADODARA,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Gujarat,VALSAD,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Himachal Pradesh,BILASPUR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Himachal Pradesh,CHAMBA,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Himachal Pradesh,HAMIRPUR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Himachal Pradesh,KANGRA,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Himachal Pradesh,KINNAUR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Himachal Pradesh,KULLU,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Himachal Pradesh,MANDI,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Himachal Pradesh,SHIMLA,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Himachal Pradesh,SIRMAUR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Himachal Pradesh,SOLAN,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Himachal Pradesh,UNA,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,AGAR MALWA,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,ALIRAJPUR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,ANUPPUR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,ASHOKNAGAR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,BALAGHAT,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,BARWANI,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,BETUL,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,BHIND,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,BHOPAL,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,BURHANPUR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,CHHATARPUR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,CHHINDWARA,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,DAMOH,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,DATIA,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,DEWAS,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,DHAR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,DINDORI,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,GUNA,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,GWALIOR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,HARDA,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,HOSHANGABAD,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,INDORE,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,JABALPUR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,JHABUA,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,KATNI,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,KHANDWA,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,KHARGONE,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,MANDLA,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,MANDSAUR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,MORENA,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,NARSINGHPUR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,NEEMUCH,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,NIWARI,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,PANNA,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,RAISEN,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,RAJGARH,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,RATLAM,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,REWA,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,SAGAR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,SATNA,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,SEHORE,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,SEONI,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,SHAHDOL,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,SHAJAPUR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,SHEOPUR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,SHIVPURI,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,SIDHI,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,SINGRAULI,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,TIKAMGARH,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,UJJAIN,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,UMARIA,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Madhya Pradesh,VIDISHA,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Maharashtra,AHMEDNAGAR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Maharashtra,AMRAVATI,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Maharashtra,BEED,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Maharashtra,CHANDRAPUR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Maharashtra,DHULE,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Maharashtra,GADCHIROLI,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Maharashtra,GONDIA,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Maharashtra,KOLHAPUR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Maharashtra,LATUR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Maharashtra,NAGPUR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Maharashtra,NANDED,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Maharashtra,NANDURBAR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Maharashtra,NASHIK,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Maharashtra,PALGHAR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Maharashtra,RATNAGIRI,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Maharashtra,SANGLI,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Maharashtra,SATARA,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Maharashtra,SINDHUDURG,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Maharashtra,SOLAPUR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Maharashtra,THANE,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Manipur,BISHNUPUR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Manipur,CHANDEL,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Manipur,CHURACHANDPUR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Manipur,IMPHAL EAST,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Manipur,IMPHAL WEST,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Manipur,SENAPATI,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Manipur,TAMENGLONG,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Manipur,THOUBAL,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Manipur,UKHRUL,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Sikkim,EAST DISTRICT,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Sikkim,NORTH DISTRICT,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Sikkim,SOUTH DISTRICT,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Sikkim,WEST DISTRICT,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Telangana,ADILABAD,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,BHADRADRI,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,HYDERABAD,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,JAGITIAL,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,JANGOAN,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,JAYASHANKAR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,JOGULAMBA,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,KAMAREDDY,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,KARIMNAGAR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,KHAMMAM,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,KOMARAM BHEEM ASIFABAD,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,MAHABUBABAD,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,MAHBUBNAGAR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,MANCHERIAL,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,MEDAK,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,MEDCHAL,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,MULUGU,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,NAGARKURNOOL,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,NALGONDA,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,NARAYANAPET,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,NIRMAL,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,NIZAMABAD,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,PEDDAPALLI,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,RAJANNA,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,RANGAREDDI,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,SANGAREDDY,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,SIDDIPET,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,SURYAPET,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,VIKARABAD,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,WANAPARTHY,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,WARANGAL,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,WARANGAL URBAN,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Telangana,YADADRI,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,AGRA,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,ALIGARH,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,ALLAHABAD,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,AMBEDKAR NAGAR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,AMETHI,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,AMROHA,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,AURAIYA,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,AZAMGARH,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,BAGHPAT,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,BAHRAICH,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,BALLIA,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,BALRAMPUR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,BANDA,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,BARABANKI,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,BAREILLY,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,BASTI,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,BIJNOR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,BUDAUN,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,BULANDSHAHR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,CHANDAULI,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,CHITRAKOOT,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,DEORIA,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,ETAH,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,ETAWAH,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,FAIZABAD,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,FARRUKHABAD,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,FATEHPUR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,FIROZABAD,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,GAUTAM BUDDHA NAGAR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,GHAZIABAD,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,GHAZIPUR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,GONDA,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,GORAKHPUR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,HAMIRPUR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,HAPUR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,HARDOI,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,HATHRAS,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,JALAUN,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,JAUNPUR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,JHANSI,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,KANNAUJ,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,KANPUR DEHAT,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,KANPUR NAGAR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,KASGANJ,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,KAUSHAMBI,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,KHERI,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,KUSHI NAGAR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,LALITPUR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,LUCKNOW,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,MAHARAJGANJ,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,MAHOBA,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,MAINPURI,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,MATHURA,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,MAU,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,MEERUT,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,MIRZAPUR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,MORADABAD,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,MUZAFFARNAGAR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,PILIBHIT,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,PRATAPGARH,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,RAE BARELI,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,RAMPUR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,SAHARANPUR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,SAMBHAL,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,SANT KABEER NAGAR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,SANT RAVIDAS NAGAR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,SHAHJAHANPUR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,SHAMLI,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,SHRAVASTI,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,SIDDHARTH NAGAR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,SITAPUR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,SONBHADRA,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,SULTANPUR,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,UNNAO,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttar Pradesh,VARANASI,Kharif,May,23,32,5.0,7.0,1750,3000
+Rice,Uttarakhand,ALMORA,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Uttarakhand,BAGESHWAR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Uttarakhand,CHAMOLI,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Uttarakhand,CHAMPAWAT,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Uttarakhand,DEHRADUN,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Uttarakhand,HARIDWAR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Uttarakhand,NAINITAL,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Uttarakhand,PAURI GARHWAL,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Uttarakhand,PITHORAGARH,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Uttarakhand,RUDRA PRAYAG,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Uttarakhand,TEHRI GARHWAL,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Uttarakhand,UDAM SINGH NAGAR,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Uttarakhand,UTTAR KASHI,Kharif,June,23,32,5.0,7.0,1750,3000
+Rice,Andhra Pradesh,ANANTAPUR,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Andhra Pradesh,EAST GODAVARI,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Andhra Pradesh,WEST GODAVARI,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Andhra Pradesh,CHITTOOR,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Andhra Pradesh,GUNTUR,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Andhra Pradesh,KADAPA,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Andhra Pradesh,KRISHNA,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Andhra Pradesh,KURNOOL,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Andhra Pradesh,PRAKASAM,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Andhra Pradesh,SPSR NELLORE,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Andhra Pradesh,SRIKAKULAM,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Andhra Pradesh,VISAKHAPATANAM,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Andhra Pradesh,VIZIANAGARAM,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,ADILABAD,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,BHADRADRI,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,HYDERABAD,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,JAGITIAL,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,JANGOAN,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,JAYASHANKAR,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,JOGULAMBA,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,KAMAREDDY,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,KARIMNAGAR,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,KHAMMAM,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,KOMARAM BHEEM ASIFABAD,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,MAHABUBABAD,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,MAHBUBNAGAR,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,MANCHERIAL,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,MEDAK,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,MEDCHAL,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,MULUGU,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,NAGARKURNOOL,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,NALGONDA,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,NARAYANAPET,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,NIRMAL,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,NIZAMABAD,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,PEDDAPALLI,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,RAJANNA,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,RANGAREDDI,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,SANGAREDDY,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,SIDDIPET,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,SURYAPET,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,VIKARABAD,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,WANAPARTHY,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,WARANGAL,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,WARANGAL URBAN,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Telangana,YADADRI,Rabi,March,23,32,5.0,7.0,1750,3000
+Rice,Bihar,ARARIA,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Bihar,BHOJPUR,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Bihar,DARBHANGA,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Bihar,GAYA,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Bihar,GOPALGANJ,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Bihar,KATIHAR,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Bihar,KHAGARIA,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Bihar,KISHANGANJ,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Bihar,LAKHISARAI,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Bihar,MADHEPURA,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Bihar,MADHUBANI,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Bihar,MUZAFFARPUR,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Bihar,PASHCHIM CHAMPARAN,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Bihar,PATNA,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Bihar,PURBI CHAMPARAN,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Bihar,ROHTAS,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Bihar,PURNIA,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Bihar,SAHARSA,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Bihar,SAMASTIPUR,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Bihar,SARAN,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Bihar,SHEIKHPURA,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Bihar,SHEOHAR,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Bihar,SITAMARHI,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Bihar,SIWAN,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Bihar,SUPAUL,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Bihar,VAISHALI,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,BAGALKOT,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,BANGALORE RURAL,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,BELGAUM,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,BELLARY,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,BENGALURU URBAN,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,BIDAR,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,BIJAPUR,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,CHAMARAJANAGAR,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,CHIKBALLAPUR,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,CHIKMAGALUR,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,CHITRADURGA,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,DAKSHIN KANNAD,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,DAVANGERE,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,DHARWAD,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,GADAG,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,GULBARGA,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,HASSAN,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,HAVERI,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,KODAGU,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,KOLAR,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,KOPPAL,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,MANDYA,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,MYSORE,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,RAICHUR,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,RAMANAGARA,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,SHIMOGA,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,TUMKUR,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,UDUPI,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,UTTAR KANNAD,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,YADGIR,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Meghalaya,EAST GARO HILLS,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Meghalaya,EAST JAINTIA HILLS,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Meghalaya,EAST KHASI HILLS,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Meghalaya,NORTH GARO HILLS,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Meghalaya,RI BHOI,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Meghalaya,SOUTH GARO HILLS,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Meghalaya,SOUTH WEST GARO HILLS,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Meghalaya,SOUTH WEST KHASI HILLS,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Meghalaya,WEST GARO HILLS,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Meghalaya,WEST JAINTIA HILLS,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Meghalaya,WEST KHASI HILLS,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,24 PARAGANAS NORTH,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,24 PARAGANAS SOUTH,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,ALIPURDUAR,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,BANKURA,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,BIRBHUM,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,COOCHBEHAR,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,DARJEELING,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,DINAJPUR DAKSHIN,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,DINAJPUR UTTAR,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,HOOGHLY,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,HOWRAH,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,JALPAIGURI,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,JHARGRAM,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,KALIMPONG,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,MALDAH,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,MEDINIPUR EAST,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,MEDINIPUR WEST,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,MURSHIDABAD,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,NADIA,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,PASCHIM BARDHAMAN,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,PURBA BARDHAMAN,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,PURULIA,Autumn,September,23,32,5.0,7.0,1750,3000
+Rice,Bihar,ARARIA,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,ARWAL,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,AURANGABAD,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,BANKA,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,BEGUSARAI,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,BHAGALPUR,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,BHOJPUR,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,BUXAR,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,DARBHANGA,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,GAYA,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,GOPALGANJ,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,JAMUI,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,JEHANABAD,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,KAIMUR,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,KATIHAR,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,KHAGARIA,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,KISHANGANJ,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,LAKHISARAI,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,MADHEPURA,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,MADHUBANI,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,MUNGER,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,MUZAFFARPUR,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,NALANDA,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,NAWADA,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,PASHCHIM CHAMPARAN,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,PATNA,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,PURBI CHAMPARAN,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,ROHTAS,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,PURNIA,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,SAHARSA,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,SAMASTIPUR,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,SARAN,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,SHEIKHPURA,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,SHEOHAR,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,SITAMARHI,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,SIWAN,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,SUPAUL,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Bihar,VAISHALI,Winter,November,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,BAGALKOT,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,BANGALORE RURAL,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,BELGAUM,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,BELLARY,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,BENGALURU URBAN,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,BIDAR,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,BIJAPUR,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,CHAMARAJANAGAR,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,CHIKBALLAPUR,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,CHIKMAGALUR,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,CHITRADURGA,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,DAKSHIN KANNAD,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,DAVANGERE,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,DHARWAD,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,GADAG,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,GULBARGA,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,HASSAN,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,HAVERI,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,KODAGU,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,KOLAR,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,KOPPAL,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,MANDYA,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,MYSORE,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,RAICHUR,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,RAMANAGARA,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,SHIMOGA,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,TUMKUR,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,UDUPI,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,UTTAR KANNAD,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Karnataka,YADGIR,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Meghalaya,EAST GARO HILLS,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Meghalaya,EAST JAINTIA HILLS,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Meghalaya,EAST KHASI HILLS,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Meghalaya,NORTH GARO HILLS,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Meghalaya,RI BHOI,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Meghalaya,SOUTH GARO HILLS,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Meghalaya,SOUTH WEST GARO HILLS,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Meghalaya,SOUTH WEST KHASI HILLS,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Meghalaya,WEST GARO HILLS,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Meghalaya,WEST JAINTIA HILLS,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,Meghalaya,WEST KHASI HILLS,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,24 PARAGANAS NORTH,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,24 PARAGANAS SOUTH,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,ALIPURDUAR,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,BANKURA,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,BIRBHUM,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,COOCHBEHAR,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,DARJEELING,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,DINAJPUR DAKSHIN,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,DINAJPUR UTTAR,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,HOOGHLY,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,HOWRAH,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,JALPAIGURI,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,JHARGRAM,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,KALIMPONG,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,MALDAH,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,MEDINIPUR EAST,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,MEDINIPUR WEST,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,MURSHIDABAD,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,NADIA,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,PASCHIM BARDHAMAN,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,PURBA BARDHAMAN,Winter,December,23,32,5.0,7.0,1750,3000
+Rice,West Bengal,PURULIA,Winter,December,23,32,5.0,7.0,1750,3000
+Small Millets,Andhra Pradesh,ANANTAPUR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Andhra Pradesh,EAST GODAVARI,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Andhra Pradesh,CHITTOOR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Andhra Pradesh,KADAPA,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Andhra Pradesh,KURNOOL,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Andhra Pradesh,PRAKASAM,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Andhra Pradesh,SRIKAKULAM,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Andhra Pradesh,VISAKHAPATANAM,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Andhra Pradesh,VIZIANAGARAM,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Bihar, BEGUSARAI,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Bihar, BHAGALPUR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Bihar, BHOJPUR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Bihar, KATIHAR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Bihar, KHAGARIA,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Bihar, MADHEPURA,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Bihar, MUNGER,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Bihar, NALANDA,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Bihar,SAMASTIPUR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Bihar,SARAN,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Bihar,SIWAN,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Bihar,SUPAUL,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Himachal Pradesh, CHAMBA,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Himachal Pradesh,KANGRA,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Himachal Pradesh,KINNAUR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Himachal Pradesh,KULLU,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Himachal Pradesh,LAHUL AND SPITI,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Himachal Pradesh,MANDI,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Himachal Pradesh,SHIMLA,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Himachal Pradesh,SIRMAUR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,BAGALKOT,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,BANGALORE RURAL,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,BELGAUM,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,BELLARY,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,BENGALURU URBAN,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,BIDAR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,BIJAPUR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,CHAMARAJANAGAR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,CHIKBALLAPUR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,CHIKMAGALUR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,CHITRADURGA,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,DAKSHIN KANNAD,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,DAVANGERE,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,DHARWAD,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,GADAG,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,GULBARGA,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,HASSAN,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,HAVERI,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,KODAGU,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,KOLAR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,KOPPAL,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,MANDYA,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,MYSORE,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,RAICHUR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,RAMANAGARA,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,SHIMOGA,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,TUMKUR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,UDUPI,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,UTTAR KANNAD,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Karnataka,YADGIR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Madhya Pradesh,ALIRAJPUR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Madhya Pradesh,ANUPPUR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Madhya Pradesh,BALAGHAT,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Madhya Pradesh, 4.BARWANI,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Madhya Pradesh,BETUL,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Madhya Pradesh,BHIND,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Madhya Pradesh,BURHANPUR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Madhya Pradesh,CHHATARPUR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Madhya Pradesh,CHHINDWARA,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Madhya Pradesh,DHAR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Madhya Pradesh,DINDORI,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Madhya Pradesh,GWALIOR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Madhya Pradesh,HARDA,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Madhya Pradesh,HOSHANGABAD,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Madhya Pradesh,JABALPUR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Madhya Pradesh,JHABUA,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Madhya Pradesh,KATNI,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Madhya Pradesh,KHANDWA,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Madhya Pradesh,MANDLA,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Madhya Pradesh,MANDSAUR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Madhya Pradesh,MORENA,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Madhya Pradesh,NARSINGHPUR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Madhya Pradesh,PANNA,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Nagaland,KIPHIRE,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Nagaland,KOHIMA,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Nagaland,LONGLENG,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Nagaland,MOKOKCHUNG,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Nagaland,MON,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Nagaland,PEREN,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Nagaland,PHEK,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Nagaland,TUENSANG,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Nagaland,WOKHA,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Nagaland,ZUNHEBOTO,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Sikkim,EAST DISTRICT,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Sikkim,NORTH DISTRICT,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Sikkim,SOUTH DISTRICT,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Sikkim,WEST DISTRICT,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Telangana,JOGULAMBA,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Telangana,MAHBUBNAGAR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Telangana,NAGARKURNOOL,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Tripura,DHALAI,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Tripura,GOMATI,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Tripura,KHOWAI,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Tripura,NORTH TRIPURA,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Tripura,SEPAHIJALA,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Tripura,SOUTH TRIPURA,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Tripura,UNAKOTI,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Tripura,WEST TRIPURA,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttar Pradesh,ALLAHABAD,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttar Pradesh,AMETHI,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttar Pradesh,AZAMGARH,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttar Pradesh,BAHRAICH,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttar Pradesh,BALLIA,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttar Pradesh,BALRAMPUR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttar Pradesh, BANDA,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttar Pradesh,BARABANKI,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttar Pradesh,CHITRAKOOT,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttar Pradesh,FAIZABAD,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttar Pradesh,GORAKHPUR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttar Pradesh,JALAUN,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttar Pradesh,JHANSI,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttar Pradesh,KANPUR NAGAR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttar Pradesh,KAUSHAMBI,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttar Pradesh,KHERI,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttar Pradesh,KUSHI NAGAR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttar Pradesh,LALITPUR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttar Pradesh,LUCKNOW,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttar Pradesh,MAHARAJGANJ,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttar Pradesh,MAU,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttar Pradesh,RAE BARELI,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttar Pradesh,SANT KABEER NAGAR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttarakhand,ALMORA,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttarakhand,BAGESHWAR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttarakhand,CHAMOLI,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttarakhand,CHAMPAWAT,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttarakhand,DEHRADUN,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttarakhand,HARIDWAR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttarakhand,NAINITAL,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttarakhand,PAURI GARHWAL,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttarakhand,PITHORAGARH,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttarakhand,RUDRA PRAYAG,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttarakhand,TEHRI GARHWAL,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttarakhand,UDAM SINGH NAGAR,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Uttarakhand,UTTAR KASHI,Kharif,June,27,32,4.5,8.0,350,450
+Small Millets,Andhra Pradesh,ANANTAPUR,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Andhra Pradesh,CHITTOOR,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Andhra Pradesh,GUNTUR,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Andhra Pradesh,KADAPA,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Andhra Pradesh,KURNOOL,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Andhra Pradesh,PRAKASAM,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Andhra Pradesh,SPSR NELLORE,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Gujarat, AMRELI,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Gujarat, ANAND,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Gujarat,BANAS KANTHA,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Gujarat, CHHOTAUDEPUR,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Gujarat,GIR SOMNATH,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Gujarat,JUNAGADH,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Gujarat,KHEDA,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Gujarat,PANCH MAHALS,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Gujarat,SURAT,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Gujarat,VADODARA,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Meghalaya,EAST GARO HILLS,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Meghalaya,EAST JAINTIA HILLS,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Meghalaya,EAST KHASI HILLS,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Meghalaya,NORTH GARO HILLS,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Meghalaya,RI BHOI,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Meghalaya,SOUTH GARO HILLS,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Meghalaya,SOUTH WEST GARO HILLS,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Meghalaya,SOUTH WEST KHASI HILLS,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Meghalaya,WEST GARO HILLS,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Meghalaya,WEST JAINTIA HILLS,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Meghalaya,WEST KHASI HILLS,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Telangana,MEDAK,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Telangana,SANGAREDDY,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Telangana,SURYAPET,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,Telangana,YADADRI,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,West Bengal,Darjeeling,Rabi,September,27,32,4.5,8.0,350,450
+Small Millets,West Bengal,Kalipong,Rabi,September,27,32,4.5,8.0,350,450
+Soyabean,Andhra Pradesh,ANANTAPUR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Andhra Pradesh,KRISHNA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Gujarat,AHMADABAD,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Gujarat,AMRELI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Gujarat,ANAND,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Gujarat,ARAVALLI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Gujarat,BHARUCH,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Gujarat,CHHOTAUDEPUR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Gujarat,DANG,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Gujarat,DOHAD,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Gujarat,GIR SOMNATH,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Gujarat,JAMNAGAR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Gujarat,JUNAGADH,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Gujarat,KHEDA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Gujarat,MAHISAGAR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Gujarat,NARMADA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Gujarat,PANCH MAHALS,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Gujarat,RAJKOT,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Gujarat,SABAR KANTHA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Gujarat,SURAT,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Gujarat,TAPI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Gujarat,VADODARA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Himachal Pradesh,BILASPUR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Himachal Pradesh,CHAMBA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Himachal Pradesh,KANGRA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Himachal Pradesh,KULLU,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Himachal Pradesh,LAHUL AND SPITI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Himachal Pradesh,MANDI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Himachal Pradesh,SHIMLA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Himachal Pradesh,SIRMAUR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Himachal Pradesh,SOLAN,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Himachal Pradesh,UNA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Karnataka,BAGALKOT,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Karnataka,BANGALORE RURAL,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Karnataka,BELGAUM,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Karnataka,BELLARY,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Karnataka,BENGALURU URBAN,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Karnataka,BIDAR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Karnataka,BIJAPUR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Karnataka,CHAMARAJANAGAR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Karnataka,CHIKBALLAPUR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Karnataka,CHIKMAGALUR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Karnataka,CHITRADURGA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Karnataka,DAKSHIN KANNAD,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Karnataka,DAVANGERE,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Karnataka,DHARWAD,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Karnataka,GADAG,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Karnataka,GULBARGA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Karnataka,HASSAN,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Karnataka,HAVERI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Karnataka,KODAGU,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Karnataka,KOLAR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Karnataka,KOPPAL,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Karnataka,MANDYA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Karnataka,MYSORE,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Karnataka,RAICHUR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Karnataka,RAMANAGARA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Karnataka,SHIMOGA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Karnataka,TUMKUR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Karnataka,UDUPI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Karnataka,UTTAR KANNAD,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,AGAR MALWA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,ALIRAJPUR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,ANUPPUR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,ASHOKNAGAR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,BALAGHAT,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,BARWANI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,BETUL,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,BHIND,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,BHOPAL,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,BURHANPUR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,CHHATARPUR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,CHHINDWARA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,DAMOH,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,DATIA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,DEWAS,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,DHAR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,DINDORI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,GUNA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,GWALIOR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,HARDA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,HOSHANGABAD,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,INDORE,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,JABALPUR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,JHABUA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,KATNI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,KHANDWA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,KHARGONE,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,MANDLA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,MANDSAUR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,MORENA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,NARSINGHPUR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,NEEMUCH,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,NIWARI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,PANNA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,RAISEN,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,RAJGARH,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,RATLAM,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,REWA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,SAGAR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,SATNA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,SEHORE,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,SEONI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,SHAHDOL,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,SHAJAPUR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,SHEOPUR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,SHIVPURI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,SIDHI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,SINGRAULI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,TIKAMGARH,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,UJJAIN,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,UMARIA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Madhya Pradesh,VIDISHA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Maharashtra,AHMEDNAGAR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Maharashtra,AKOLA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Maharashtra,AMRAVATI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Maharashtra,AURANGABAD,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Maharashtra,BEED,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Maharashtra,BHANDARA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Maharashtra,BULDHANA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Maharashtra,CHANDRAPUR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Maharashtra,DHULE,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Maharashtra,GADCHIROLI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Maharashtra,GONDIA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Maharashtra,HINGOLI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Maharashtra,JALGAON,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Maharashtra,JALNA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Maharashtra,KOLHAPUR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Maharashtra,LATUR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Maharashtra,PUNE,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Maharashtra,RAIGAD,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Maharashtra,RATNAGIRI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Maharashtra,SANGLI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Maharashtra,SATARA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Maharashtra,WARDHA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Maharashtra,WASHIM,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Maharashtra,YAVATMAL,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Manipur,BISHNUPUR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Manipur,CHANDEL,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Manipur,CHURACHANDPUR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Manipur,IMPHAL EAST,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Manipur,IMPHAL WEST,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Manipur,SENAPATI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Manipur,TAMENGLONG,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Manipur,THOUBAL,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Manipur,UKHRUL,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Meghalaya,EAST GARO HILLS,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Meghalaya,EAST JAINTIA HILLS,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Meghalaya,EAST KHASI HILLS,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Meghalaya,NORTH GARO HILLS,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Meghalaya,RI BHOI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Meghalaya,SOUTH GARO HILLS,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Meghalaya,SOUTH WEST GARO HILLS,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Meghalaya,SOUTH WEST KHASI HILLS,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Meghalaya,WEST GARO HILLS,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Meghalaya,WEST JAINTIA HILLS,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Meghalaya,WEST KHASI HILLS,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Nagaland,DIMAPUR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Nagaland,KIPHIRE,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Nagaland,KOHIMA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Nagaland,LONGLENG,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Nagaland,MOKOKCHUNG,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Nagaland,MON,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Nagaland,PEREN,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Nagaland,PHEK,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Nagaland,TUENSANG,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Nagaland,WOKHA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Nagaland,ZUNHEBOTO,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Sikkim,EAST DISTRICT,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Sikkim,NORTH DISTRICT,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Sikkim,SOUTH DISTRICT,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Sikkim,WEST DISTRICT,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Telangana,ADILABAD,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Telangana,BHADRADRI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Telangana,JAGITIAL,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Telangana,KAMAREDDY,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Telangana,KARIMNAGAR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Telangana,KHAMMAM,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Telangana,KOMARAM BHEEM ASIFABAD,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Telangana,MAHABUBABAD,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Telangana,MEDCHAL,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Telangana,MULUGU,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Telangana,NAGARKURNOOL,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Telangana,NALGONDA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Telangana,NARAYANAPET,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Telangana,NIRMAL,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Telangana,WARANGAL URBAN,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Tripura,GOMATI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Tripura,KHOWAI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Tripura,NORTH TRIPURA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Tripura,SEPAHIJALA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Tripura,SOUTH TRIPURA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Tripura,UNAKOTI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Uttar Pradesh, BAHRAICH,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Uttar Pradesh, BANDA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Uttar Pradesh, CHITRAKOOT,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Uttar Pradesh, HAMIRPUR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Uttar Pradesh, HARDOI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Uttar Pradesh, JALAUN,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Uttar Pradesh, JHANSI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Uttar Pradesh, KANPUR DEHAT,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Uttar Pradesh, LALITPUR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Uttar Pradesh, MAHOBA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Uttar Pradesh, PILIBHIT,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Uttar Pradesh, RAMPUR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Uttar Pradesh, SHAHJAHANPUR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Uttarakhand,ALMORA,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Uttarakhand,BAGESHWAR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Uttarakhand,CHAMOLI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Uttarakhand,CHAMPAWAT,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Uttarakhand,DEHRADUN,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Uttarakhand,HARIDWAR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Uttarakhand,NAINITAL,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Uttarakhand,PAURI GARHWAL,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Uttarakhand,PITHORAGARH,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Uttarakhand,RUDRA PRAYAG,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Uttarakhand,TEHRI GARHWAL,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Uttarakhand,UDAM SINGH NAGAR,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,Uttarakhand,UTTAR KASHI,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,West Bengal,BIRBHUM,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,West Bengal,DARJEELING,Kharif,June,20,30,6.3,6.5,500,635
+Soyabean,West Bengal,KALIMPONG,Kharif,June,20,30,6.3,6.5,500,635
+Tobacco,Andhra Pradesh,ANANTAPUR,Kharif,June,20,30,5.5,6.5,800,1000
+Tobacco,Andhra Pradesh,EAST GODAVARI,Kharif,June,20,30,5.5,6.5,800,1000
+Tobacco,Andhra Pradesh,GUNTUR,Kharif,June,20,30,5.5,6.5,800,1000
+Tobacco,Andhra Pradesh,KADAPA,Kharif,June,20,30,5.5,6.5,800,1000
+Tobacco,Andhra Pradesh,KURNOOL,Kharif,June,20,30,5.5,6.5,800,1000
+Tobacco,Andhra Pradesh,PRAKASAM,Kharif,June,20,30,5.5,6.5,800,1000
+Tobacco,Andhra Pradesh,SRIKAKULAM,Kharif,June,20,30,5.5,6.5,800,1000
+Tobacco,Andhra Pradesh,VISAKHAPATANAM,Kharif,June,20,30,5.5,6.5,800,1000
+Tobacco,Gujarat,AHMADABAD,Kharif,June,20,30,5.5,6.5,800,1000
+Tobacco,Gujarat,AMRELI,Kharif,June,20,30,5.5,6.5,800,1000
+Tobacco,Gujarat,ANAND,Kharif,June,20,30,5.5,6.5,800,1000
+Tobacco,Gujarat,BANAS KANTHA,Kharif,June,20,30,5.5,6.5,800,1000
+Tobacco,Gujarat,KHEDA,Kharif,June,20,30,5.5,6.5,800,1000
+Tobacco,Gujarat,MAHESANA,Kharif,June,20,30,5.5,6.5,800,1000
+Tobacco,Gujarat,MAHISAGAR,Kharif,June,20,30,5.5,6.5,800,1000
+Tobacco,Gujarat,PANCH MAHALS,Kharif,June,20,30,5.5,6.5,800,1000
+Tobacco,Gujarat,VADODARA,Kharif,June,20,30,5.5,6.5,800,1000
+Tobacco,Telangana,JANGOAN,Kharif,June,20,30,5.5,6.5,800,1000
+Tobacco,Telangana,JOGULAMBA,Kharif,June,20,30,5.5,6.5,800,1000
+Tobacco,Telangana,KARIMNAGAR,Kharif,June,20,30,5.5,6.5,800,1000
+Tobacco,Andhra Pradesh,ANANTAPUR,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Andhra Pradesh,EAST GODAVARI,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Andhra Pradesh,WEST GODAVARI,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Andhra Pradesh,GUNTUR,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Andhra Pradesh,KADAPA,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Andhra Pradesh,KRISHNA,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Andhra Pradesh,KURNOOL,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Andhra Pradesh,PRAKASAM,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Andhra Pradesh,SPSR NELLORE,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Andhra Pradesh,SRIKAKULAM,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Andhra Pradesh,VISAKHAPATANAM,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Andhra Pradesh,VIZIANAGARAM,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Gujarat,ANAND,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Gujarat,ARAVALLI,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Gujarat,BANAS KANTHA,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Gujarat,GANDHINAGAR,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Gujarat,KHEDA,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Gujarat,MAHESANA,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Gujarat,PATAN,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Gujarat,SABAR KANTHA,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Gujarat,VADODARA,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Meghalaya,EAST GARO HILLS,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Meghalaya,NORTH GARO HILLS,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Meghalaya,SOUTH GARO HILLS,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Meghalaya,SOUTH WEST GARO HILLS,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Meghalaya,WEST GARO HILLS,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Meghalaya,WEST KHASI HILLS,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Telangana,ADILABAD,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Telangana,BHADRADRI,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Telangana,JANGOAN,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Telangana,JOGULAMBA,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Telangana,KAMAREDDY,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Telangana,KARIMNAGAR,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Telangana,KHAMMAM,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Telangana,MAHABUBABAD,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Telangana,MULUGU,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Telangana,NIRMAL,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Telangana,NIZAMABAD,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Telangana,WANAPARTHY,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Telangana,WARANGAL,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,AMBEDKAR NAGAR,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,AZAMGARH,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,BARABANKI,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,BASTI,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,BUDAUN,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,BULANDSHAHR,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,ETAH,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,FARRUKHABAD,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,GHAZIPUR,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,GONDA,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,HAMIRPUR,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,HARDOI,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,HATHRAS,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,KANNAUJ,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,KANPUR NAGAR,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,KASGANJ,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,KAUSHAMBI,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,KHERI,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,MIRZAPUR,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,RAE BARELI,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,SAMBHAL,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,SHAHJAHANPUR,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,SITAPUR,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,UNNAO,Rabi,October,20,30,5.5,6.5,800,1000
+Tobacco,Bihar,BHAGALPUR,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Bihar,GOPALGANJ,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Bihar,KISHANGANJ,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Bihar,MUZAFFARPUR,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Bihar,SAMASTIPUR,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Bihar,SHEOHAR,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Bihar,SIWAN,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Bihar,VAISHALI,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Karnataka,BAGALKOT,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Karnataka,BANGALORE RURAL,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Karnataka,BELGAUM,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Karnataka,BELLARY,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Karnataka,BENGALURU URBAN,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Karnataka,BIDAR,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Karnataka,BIJAPUR,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Karnataka,CHAMARAJANAGAR,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Karnataka,CHIKBALLAPUR,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Karnataka,CHIKMAGALUR,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Karnataka,CHITRADURGA,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Karnataka,DAKSHIN KANNAD,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Karnataka,DAVANGERE,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Karnataka,GADAG,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Karnataka,GULBARGA,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Karnataka,HASSAN,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Karnataka,HAVERI,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Karnataka,KOPPAL,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Karnataka,MANDYA,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Karnataka,MYSORE,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Karnataka,RAICHUR,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Karnataka,RAMANAGARA,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Karnataka,SHIMOGA,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Karnataka,TUMKUR,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Karnataka,UDUPI,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Karnataka,YADGIR,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Kerala,KASARAGOD,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Uttarakhand,HARIDWAR,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,West Bengal,ALIPURDUAR,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,West Bengal,COOCHBEHAR,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,West Bengal,JALPAIGURI,WholeYear,May,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,FARRUKHABAD,Summer,February,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,FATEHPUR,Summer,February,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,HARDOI,Summer,February,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,KASGANJ,Summer,February,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,PILIBHIT,Summer,February,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,SAMBHAL,Summer,February,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,SHAHJAHANPUR,Summer,February,20,30,5.5,6.5,800,1000
+Tobacco,Uttar Pradesh,SULTANPUR,Summer,February,20,30,5.5,6.5,800,1000
+Tur,Andhra Pradesh,ANANTAPUR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Andhra Pradesh,EAST GODAVARI,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Andhra Pradesh,WEST GODAVARI,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Andhra Pradesh,CHITTOOR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Andhra Pradesh,GUNTUR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Andhra Pradesh,KADAPA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Andhra Pradesh,KRISHNA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Andhra Pradesh,KURNOOL,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Andhra Pradesh,PRAKASAM,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Andhra Pradesh,SPSR NELLORE,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Andhra Pradesh,SRIKAKULAM,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Andhra Pradesh,VISAKHAPATANAM,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Andhra Pradesh,VIZIANAGARAM,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Bihar,ARWAL,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,AURANGABAD,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,BANKA,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,BEGUSARAI,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,BHAGALPUR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,BHOJPUR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,BUXAR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,DARBHANGA,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,GAYA,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,GOPALGANJ,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,JAMUI,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,JEHANABAD,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,KAIMUR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,KATIHAR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,KHAGARIA,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,KISHANGANJ,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,MADHEPURA,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,MADHUBANI,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,MUNGER,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,MUZAFFARPUR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,NALANDA,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,NAWADA,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,PASHCHIM CHAMPARAN,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,PATNA,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,PURBI CHAMPARAN,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,ROHTAS,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,SAMASTIPUR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,SARAN,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,SHEIKHPURA,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,SHEOHAR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,SITAMARHI,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,SIWAN,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,SUPAUL,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Bihar,VAISHALI,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Gujarat,AHMADABAD,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Gujarat,AMRELI,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Gujarat,ANAND,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Gujarat,ARAVALLI,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Gujarat,BANAS KANTHA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Gujarat,BHARUCH,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Gujarat,BHAVNAGAR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Gujarat,BOTAD,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Gujarat,CHHOTAUDEPUR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Gujarat,DANG,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Gujarat,DOHAD,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Gujarat,GANDHINAGAR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Gujarat,GIR SOMNATH,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Gujarat,JAMNAGAR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Gujarat,JUNAGADH,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Gujarat,KHEDA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Gujarat,MAHESANA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Gujarat,MAHISAGAR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Gujarat,MORBI,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Gujarat,NARMADA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Gujarat,NAVSARI,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Gujarat,PANCH MAHALS,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Gujarat,PATAN,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Gujarat,RAJKOT,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Gujarat,SABAR KANTHA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Gujarat,SURAT,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Gujarat,SURENDRANAGAR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Gujarat,TAPI,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Gujarat,VADODARA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Gujarat,VALSAD,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Himachal Pradesh,BILASPUR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Himachal Pradesh,CHAMBA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Himachal Pradesh,KANGRA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Himachal Pradesh,KULLU,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Himachal Pradesh,SHIMLA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Himachal Pradesh,SIRMAUR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Karnataka,BAGALKOT,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Karnataka,BANGALORE RURAL,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Karnataka,BELGAUM,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Karnataka,BELLARY,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Karnataka,BENGALURU URBAN,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Karnataka,BIDAR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Karnataka,BIJAPUR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Karnataka,CHAMARAJANAGAR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Karnataka,CHIKBALLAPUR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Karnataka,CHIKMAGALUR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Karnataka,CHITRADURGA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Karnataka,DAKSHIN KANNAD,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Karnataka,DAVANGERE,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Karnataka,DHARWAD,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Karnataka,GADAG,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Karnataka,GULBARGA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Karnataka,HASSAN,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Karnataka,HAVERI,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Karnataka,KOLAR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Karnataka,KOPPAL,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Karnataka,MANDYA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Karnataka,MYSORE,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Karnataka,RAICHUR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Karnataka,RAMANAGARA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Karnataka,SHIMOGA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Karnataka,TUMKUR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Karnataka,UTTAR KANNAD,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Karnataka,YADGIR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,AGAR MALWA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,ALIRAJPUR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,ANUPPUR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,ASHOKNAGAR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,BALAGHAT,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,BARWANI,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,BETUL,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,BHIND,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,BHOPAL,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,BURHANPUR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,CHHATARPUR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,CHHINDWARA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,DAMOH,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,DATIA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,DEWAS,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,DHAR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,DINDORI,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,GUNA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,GWALIOR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,HARDA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,HOSHANGABAD,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,INDORE,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,JABALPUR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,JHABUA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,KATNI,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,KHANDWA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,KHARGONE,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,MANDLA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,MANDSAUR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,MORENA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,NARSINGHPUR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,NEEMUCH,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,PANNA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,RAISEN,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,RAJGARH,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,RATLAM,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,REWA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,SAGAR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,SATNA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,SEHORE,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,SEONI,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,SHAHDOL,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,SHAJAPUR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,SHEOPUR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,SHIVPURI,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,SIDHI,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,SINGRAULI,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,TIKAMGARH,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,UJJAIN,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,UMARIA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Madhya Pradesh,VIDISHA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Meghalaya,EAST GARO HILLS,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Meghalaya,NORTH GARO HILLS,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Meghalaya,SOUTH GARO HILLS,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Meghalaya,SOUTH WEST GARO HILLS,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Meghalaya,WEST GARO HILLS,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Nagaland,DIMAPUR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Nagaland,KIPHIRE,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Nagaland,KOHIMA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Nagaland,LONGLENG,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Nagaland,MOKOKCHUNG,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Nagaland,MON,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Nagaland,PEREN,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Nagaland,PHEK,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Nagaland,TUENSANG,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Nagaland,WOKHA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Nagaland,ZUNHEBOTO,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,ADILABAD,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,BHADRADRI,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,JAGITIAL,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,JANGOAN,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,JAYASHANKAR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,JOGULAMBA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,KAMAREDDY,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,KARIMNAGAR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,KHAMMAM,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,KOMARAM BHEEM ASIFABAD,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,MAHABUBABAD,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,MAHBUBNAGAR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,MANCHERIAL,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,MEDAK,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,MEDCHAL,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,MULUGU,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,NAGARKURNOOL,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,NALGONDA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,NARAYANAPET,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,NIRMAL,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,NIZAMABAD,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,PEDDAPALLI,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,RAJANNA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,RANGAREDDI,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,SANGAREDDY,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,SIDDIPET,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,SURYAPET,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,VIKARABAD,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,WANAPARTHY,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,WARANGAL,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,WARANGAL URBAN,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Telangana,YADADRI,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Tripura,DHALAI,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Tripura,GOMATI,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Tripura,KHOWAI,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Tripura,NORTH TRIPURA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Tripura,SEPAHIJALA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Tripura,SOUTH TRIPURA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Tripura,UNAKOTI,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Tripura,WEST TRIPURA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,AGRA,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,ALIGARH,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,ALLAHABAD,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,AMBEDKAR NAGAR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,AMETHI,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,AMROHA,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,AURAIYA,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,AZAMGARH,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,BAGHPAT,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,BAHRAICH,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,BALLIA,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,BALRAMPUR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,BANDA,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,BARABANKI,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,BAREILLY,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,BASTI,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,BIJNOR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,BULANDSHAHR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,CHANDAULI,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,CHITRAKOOT,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,DEORIA,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,ETAH,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,ETAWAH,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,FAIZABAD,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,FARRUKHABAD,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,FATEHPUR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,FIROZABAD,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,GAUTAM BUDDHA NAGAR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,GHAZIABAD,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,GHAZIPUR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,GONDA,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,GORAKHPUR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,HAMIRPUR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,HAPUR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,HARDOI,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,HATHRAS,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,JALAUN,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,JAUNPUR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,JHANSI,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,KANNAUJ,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,KANPUR DEHAT,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,KANPUR NAGAR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,KASGANJ,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,KAUSHAMBI,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,KHERI,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,KUSHI NAGAR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,LALITPUR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,LUCKNOW,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,MAHARAJGANJ,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,MAHOBA,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,MAINPURI,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,MATHURA,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,MAU,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,MEERUT,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,MIRZAPUR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,MORADABAD,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,MUZAFFARNAGAR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,PILIBHIT,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,PRATAPGARH,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,RAE BARELI,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,RAMPUR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,SAMBHAL,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,SANT KABEER NAGAR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,SANT RAVIDAS NAGAR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,SHAHJAHANPUR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,SHRAVASTI,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,SIDDHARTH NAGAR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,SITAPUR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,SONBHADRA,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,SULTANPUR,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,UNNAO,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttar Pradesh,VARANASI,Kharif,July,30,35,6.5,7.5,600,650
+Tur,Uttarakhand,ALMORA,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Uttarakhand,BAGESHWAR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Uttarakhand,CHAMOLI,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Uttarakhand,CHAMPAWAT,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Uttarakhand,DEHRADUN,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Uttarakhand,NAINITAL,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Uttarakhand,PAURI GARHWAL,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Uttarakhand,PITHORAGARH,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Uttarakhand,RUDRA PRAYAG,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Uttarakhand,TEHRI GARHWAL,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Uttarakhand,UDAM SINGH NAGAR,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Uttarakhand,UTTAR KASHI,Kharif,June,30,35,6.5,7.5,600,650
+Tur,Andhra Pradesh,ANANTAPUR,Rabi,October,30,35,6.5,7.5,600,650
+Tur,Andhra Pradesh,EAST GODAVARI,Rabi,October,30,35,6.5,7.5,600,650
+Tur,Andhra Pradesh,WEST GODAVARI,Rabi,October,30,35,6.5,7.5,600,650
+Tur,Andhra Pradesh,CHITTOOR,Rabi,October,30,35,6.5,7.5,600,650
+Tur,Andhra Pradesh,GUNTUR,Rabi,October,30,35,6.5,7.5,600,650
+Tur,Andhra Pradesh,KADAPA,Rabi,October,30,35,6.5,7.5,600,650
+Tur,Andhra Pradesh,KRISHNA,Rabi,October,30,35,6.5,7.5,600,650
+Tur,Andhra Pradesh,KURNOOL,Rabi,October,30,35,6.5,7.5,600,650
+Tur,Andhra Pradesh,PRAKASAM,Rabi,October,30,35,6.5,7.5,600,650
+Tur,Andhra Pradesh,SPSR NELLORE,Rabi,October,30,35,6.5,7.5,600,650
+Tur,Andhra Pradesh,VIZIANAGARAM,Rabi,October,30,35,6.5,7.5,600,650
+Tur,Telangana,BHADRADRI,Rabi,October,30,35,6.5,7.5,600,650
+Tur,Telangana,JANGOAN,Rabi,October,30,35,6.5,7.5,600,650
+Tur,Telangana,JAYASHANKAR,Rabi,October,30,35,6.5,7.5,600,650
+Tur,Telangana,JOGULAMBA,Rabi,October,30,35,6.5,7.5,600,650
+Tur,Telangana,KHAMMAM,Rabi,October,30,35,6.5,7.5,600,650
+Tur,Telangana,KOMARAM BHEEM ASIFABAD,Rabi,October,30,35,6.5,7.5,600,650
+Tur,Telangana,MAHABUBABAD,Rabi,October,30,35,6.5,7.5,600,650
+Tur,Telangana,MAHBUBNAGAR,Rabi,October,30,35,6.5,7.5,600,650
+Tur,Telangana,MANCHERIAL,Rabi,October,30,35,6.5,7.5,600,650
+Tur,Telangana,MULUGU,Rabi,October,30,35,6.5,7.5,600,650
+Tur,Telangana,NAGARKURNOOL,Rabi,October,30,35,6.5,7.5,600,650
+Tur,Telangana,VIKARABAD,Rabi,October,30,35,6.5,7.5,600,650
+Tur,Telangana,WARANGAL,Rabi,October,30,35,6.5,7.5,600,650
+Tur,West Bengal,24 PARAGANAS NORTH,Rabi,October,30,35,6.5,7.5,600,650
+Tur,West Bengal,24 PARAGANAS SOUTH,Rabi,October,30,35,6.5,7.5,600,650
+Tur,West Bengal,ALIPURDUAR,Rabi,October,30,35,6.5,7.5,600,650
+Tur,West Bengal,BANKURA,Rabi,October,30,35,6.5,7.5,600,650
+Tur,West Bengal,BIRBHUM,Rabi,October,30,35,6.5,7.5,600,650
+Tur,West Bengal,DARJEELING,Rabi,October,30,35,6.5,7.5,600,650
+Tur,West Bengal,HOOGHLY,Rabi,October,30,35,6.5,7.5,600,650
+Tur,West Bengal,JALPAIGURI,Rabi,October,30,35,6.5,7.5,600,650
+Tur,West Bengal,JHARGRAM,Rabi,October,30,35,6.5,7.5,600,650
+Tur,West Bengal,MALDAH,Rabi,October,30,35,6.5,7.5,600,650
+Tur,West Bengal,MEDINIPUR WEST,Rabi,October,30,35,6.5,7.5,600,650
+Tur,West Bengal,MURSHIDABAD,Rabi,October,30,35,6.5,7.5,600,650
+Tur,West Bengal,NADIA,Rabi,October,30,35,6.5,7.5,600,650
+Tur,West Bengal,PASCHIM BARDHAMAN,Rabi,October,30,35,6.5,7.5,600,650
+Tur,West Bengal,PURBA BARDHAMAN,Rabi,October,30,35,6.5,7.5,600,650
+Tur,West Bengal,PURULIA,Rabi,October,30,35,6.5,7.5,600,650
+Wheat,Andhra Pradesh,KURNOOL,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Andhra Pradesh,PRAKASAM,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Bihar,ARARIA,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,ARWAL,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,AURANGABAD,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,BANKA,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,BEGUSARAI,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,BHAGALPUR,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,BHOJPUR,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,BUXAR,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,DARBHANGA,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,GAYA,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,GOPALGANJ,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,JAMUI,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,JEHANABAD,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,KAIMUR,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,KATIHAR,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,KHAGARIA,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,KISHANGANJ,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,LAKHISARAI,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,MADHEPURA,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,MADHUBANI,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,MUNGER,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,MUZAFFARPUR,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,NALANDA,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,NAWADA,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,PASHCHIM CHAMPARAN,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,PATNA,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,PURBI CHAMPARAN,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,ROHTAS,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,PURNIA,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,SAHARSA,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,SAMASTIPUR,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,SARAN,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,SHEIKHPURA,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,SHEOHAR,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,SITAMARHI,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,SIWAN,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,SUPAUL,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Bihar,VAISHALI,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,AHMADABAD,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,AMRELI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,ANAND,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,ARAVALLI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,BANAS KANTHA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,BHARUCH,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,BHAVNAGAR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,BOTAD,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,CHHOTAUDEPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,DANG,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,DEVBHUMI DWARKA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,DOHAD,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,GANDHINAGAR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,GIR SOMNATH,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,JAMNAGAR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,JUNAGADH,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,KACHCHH,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,KHEDA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,MAHESANA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,MAHISAGAR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,MORBI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,NARMADA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,NAVSARI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,PANCH MAHALS,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,PATAN,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,PORBANDAR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,RAJKOT,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,SABAR KANTHA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,SURAT,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,SURENDRANAGAR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,TAPI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,VADODARA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Gujarat,VALSAD,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Himachal Pradesh,BILASPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Himachal Pradesh,CHAMBA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Himachal Pradesh,HAMIRPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Himachal Pradesh,KANGRA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Himachal Pradesh,KINNAUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Himachal Pradesh,KULLU,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Himachal Pradesh,LAHUL AND SPITI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Himachal Pradesh,MANDI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Himachal Pradesh,SHIMLA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Himachal Pradesh,SIRMAUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Himachal Pradesh,SOLAN,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Himachal Pradesh,UNA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,BAGALKOT,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,BANGALORE RURAL,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,BELGAUM,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,BELLARY,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,BENGALURU URBAN,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,BIDAR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,BIJAPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,CHAMARAJANAGAR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,CHIKBALLAPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,CHIKMAGALUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,CHITRADURGA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,DAKSHIN KANNAD,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,DAVANGERE,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,DHARWAD,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,GADAG,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,GULBARGA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,HASSAN,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,HAVERI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,KODAGU,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,KOLAR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,KOPPAL,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,MANDYA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,MYSORE,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,RAICHUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,RAMANAGARA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,SHIMOGA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,TUMKUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,UDUPI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,UTTAR KANNAD,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Karnataka,YADGIR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Kerala,IDUKKI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,AGAR MALWA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,ALIRAJPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,ANUPPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,ASHOKNAGAR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,BALAGHAT,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,BARWANI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,BETUL,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,BHIND,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,BHOPAL,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,BURHANPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,CHHATARPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,CHHINDWARA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,DAMOH,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,DATIA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,DEWAS,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,DHAR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,DINDORI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,GUNA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,GWALIOR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,HARDA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,HOSHANGABAD,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,INDORE,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,JABALPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,JHABUA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,KATNI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,KHANDWA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,KHARGONE,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,MANDLA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,MANDSAUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,MORENA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,NARSINGHPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,NEEMUCH,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,NIWARI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,PANNA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,RAISEN,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,RAJGARH,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,RATLAM,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,REWA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,SAGAR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,SATNA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,SEHORE,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,SEONI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,SHAHDOL,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,SHAJAPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,SHEOPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,SHIVPURI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,SIDHI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,SINGRAULI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,TIKAMGARH,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,UJJAIN,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,UMARIA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Madhya Pradesh,VIDISHA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,AHMEDNAGAR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,AKOLA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,AMRAVATI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,AURANGABAD,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,BEED,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,BHANDARA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,BULDHANA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,CHANDRAPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,DHULE,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,GADCHIROLI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,GONDIA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,HINGOLI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,JALGAON,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,JALNA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,KOLHAPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,LATUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,NAGPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,NANDED,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,NANDURBAR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,NASHIK,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,OSMANABAD,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,PALGHAR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,PARBHANI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,PUNE,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,SANGLI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,SATARA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,SINDHUDURG,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,SOLAPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,WARDHA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,WASHIM,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Maharashtra,YAVATMAL,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Manipur,BISHNUPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Manipur,CHANDEL,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Manipur,CHURACHANDPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Manipur,IMPHAL EAST,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Manipur,IMPHAL WEST,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Manipur,SENAPATI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Manipur,TAMENGLONG,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Manipur,THOUBAL,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Manipur,UKHRUL,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Meghalaya,EAST GARO HILLS,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Meghalaya,NORTH GARO HILLS,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Meghalaya,SOUTH WEST GARO HILLS,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Meghalaya,WEST GARO HILLS,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Meghalaya,WEST KHASI HILLS,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Nagaland,DIMAPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Nagaland,KIPHIRE,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Nagaland,KOHIMA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Nagaland,LONGLENG,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Nagaland,MOKOKCHUNG,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Nagaland,MON,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Nagaland,PEREN,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Nagaland,PHEK,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Nagaland,TUENSANG,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Nagaland,WOKHA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Nagaland,ZUNHEBOTO,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Sikkim,EAST DISTRICT,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Sikkim,NORTH DISTRICT,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Telangana,ADILABAD,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Telangana,KAMAREDDY,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Telangana,KOMARAM BHEEM ASIFABAD,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Telangana,MEDAK,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Telangana,NIRMAL,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Telangana,NIZAMABAD,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Telangana,RANGAREDDI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Telangana,SANGAREDDY,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Telangana,SIDDIPET,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Telangana,VIKARABAD,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Tripura,DHALAI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Tripura,GOMATI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Tripura,KHOWAI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Tripura,NORTH TRIPURA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Tripura,SEPAHIJALA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Tripura,SOUTH TRIPURA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Tripura,UNAKOTI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Tripura,WEST TRIPURA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,AGRA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,ALIGARH,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,ALLAHABAD,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,AMBEDKAR NAGAR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,AMETHI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,AMROHA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,AURAIYA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,AZAMGARH,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,BAGHPAT,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,BAHRAICH,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,BALLIA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,BALRAMPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,BANDA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,BARABANKI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,BAREILLY,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,BASTI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,BIJNOR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,BUDAUN,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,BULANDSHAHR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,CHANDAULI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,CHITRAKOOT,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,DEORIA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,ETAH,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,ETAWAH,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,FAIZABAD,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,FARRUKHABAD,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,FATEHPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,FIROZABAD,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,GAUTAM BUDDHA NAGAR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,GHAZIABAD,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,GHAZIPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,GONDA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,GORAKHPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,HAMIRPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,HAPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,HARDOI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,HATHRAS,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,JALAUN,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,JAUNPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,JHANSI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,KANNAUJ,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,KANPUR DEHAT,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,KANPUR NAGAR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,KASGANJ,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,KAUSHAMBI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,KHERI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,KUSHI NAGAR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,LALITPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,LUCKNOW,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,MAHARAJGANJ,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,MAHOBA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,MAINPURI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,MATHURA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,MAU,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,MEERUT,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,MIRZAPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,MORADABAD,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,MUZAFFARNAGAR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,PILIBHIT,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,PRATAPGARH,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,RAE BARELI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,RAMPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,SAHARANPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,SAMBHAL,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,SANT KABEER NAGAR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,SANT RAVIDAS NAGAR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,SHAHJAHANPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,SHAMLI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,SHRAVASTI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,SIDDHARTH NAGAR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,SITAPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,SONBHADRA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,SULTANPUR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,UNNAO,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttar Pradesh,VARANASI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttarakhand,ALMORA,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttarakhand,BAGESHWAR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttarakhand,CHAMOLI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttarakhand,CHAMPAWAT,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttarakhand,DEHRADUN,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttarakhand,HARIDWAR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttarakhand,NAINITAL,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttarakhand,PAURI GARHWAL,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttarakhand,PITHORAGARH,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttarakhand,RUDRA PRAYAG,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttarakhand,TEHRI GARHWAL,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttarakhand,UDAM SINGH NAGAR,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,Uttarakhand,UTTAR KASHI,Rabi,October,21,26,6.0,7.0,250,1750
+Wheat,West Bengal,24 PARAGANAS NORTH,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,West Bengal,24 PARAGANAS SOUTH,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,West Bengal,ALIPURDUAR,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,West Bengal,BANKURA,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,West Bengal,BIRBHUM,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,West Bengal,COOCHBEHAR,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,West Bengal,DARJEELING,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,West Bengal,DINAJPUR DAKSHIN,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,West Bengal,DINAJPUR UTTAR,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,West Bengal,HOOGHLY,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,West Bengal,HOWRAH,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,West Bengal,JALPAIGURI,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,West Bengal,JHARGRAM,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,West Bengal,KALIMPONG,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,West Bengal,MALDAH,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,West Bengal,MEDINIPUR EAST,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,West Bengal,MEDINIPUR WEST,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,West Bengal,PASCHIM BARDHAMAN,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,West Bengal,PURBA BARDHAMAN,Rabi,November,21,26,6.0,7.0,250,1750
+Wheat,West Bengal,PURULIA,Rabi,November,21,26,6.0,7.0,250,1750
