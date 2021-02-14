@@ -10,4 +10,11 @@ exports.onCreatePage = async ({ page, actions }) => {
       component: path.resolve("src/pages/viewPostLog.js"),
     })
   }
+  if (page.path.match(/^\/updatePostUnits/)) {
+    createPage({
+      path: "/updatePostUnits",
+      matchPath: "/updatePostUnits/:id",
+      component: path.resolve("src/pages/updatePostUnits.js"),
+    })
+  }  
 }

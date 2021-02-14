@@ -28,7 +28,7 @@ const Login = () => {
     }
     const res = await handleLogin(data)
     if (res) {
-      setAlert(<Alert variant="success">Registered Successfully.</Alert>)
+      setAlert(<Alert variant="success">Login Successfully.</Alert>)
       setTimeout(() => {
         navigate("/dashboard")
       }, 1000)
@@ -41,7 +41,7 @@ const Login = () => {
   }
 
   return (
-    <section className="py-6" id="signup">
+    <section className="py-6" id="login">
       <div className="container">
         <div className="row">
           <div className="col-md-6 mx-auto text-center">

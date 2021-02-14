@@ -1,8 +1,16 @@
-import { faCaretDown, faEye, faTimes } from "@fortawesome/free-solid-svg-icons"
+import {
+  faArrowLeft,
+  faCaretDown,
+  faEye,
+  faTimes,
+} from "@fortawesome/free-solid-svg-icons"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import React, { useState, useEffect } from "react"
 import { Accordion, Button, Card } from "react-bootstrap"
-import { getProgressLog } from "../../services/post"
+import Slider from "react-slick"
+import "slick-carousel/slick/slick.css"
+import "slick-carousel/slick/slick-theme.css"
+import { getProgressLog, closeTransaction } from "../../services/post"
 import "./ViewPostLogComponent.css"
 
 const titleCase = str => {
@@ -15,11 +23,70 @@ const titleCase = str => {
     .join(" ")
 }
 
-const SingleFarmerLog = eventKey => {
+const getMonthFromString = mon => {
+  console.log(new Date(Date.parse(mon + " 1, 2021")).getMonth() + 1)
+  return new Date(Date.parse(mon + " 1, 2021")).getMonth() + 1
+}
+
+const SliderCards = ({ key, img, title }) => {
+  return (
+    <div className="card px-2" key={key}>
+      <div className="bg-light align-items-center">
+        <img
+          className="card-img-top img-raised img-helper"
+          src={img}
+          alt="Progress"
+          height="250"
+        />
+        <div className="card-body">
+          <h5 className="card-title text-center font-weight-bold mb-2 text-primary">
+            {title}
+          </h5>
+        </div>
+      </div>
+    </div>
+  )
+}
+
+const SingleFarmerLog = ({ eventKey, data }) => {
+  const settings = {
+    infinite: true,
+    speed: 500,
+    slidesToScroll: 1,
+    arrows: false,
+  }
+  const startDate = new Date(data.createdDate)
+  console.log(startDate.setMonth(getMonthFromString(data.post.startMonth)))
+  startDate.setMonth(getMonthFromString(data.post.startMonth) - 1, 1)
+
+  const endDate = new Date(data.createdDate)
+  endDate.setMonth(startDate.getMonth() + (data.post.duration - 1))
+
+  const closeTransactionHandler = async e => {
+    e.preventDefault()
+    const res = await closeTransaction({ transactionId: data._id })
+    console.log(res.msg)
+    if (window) {
+      window.location.reload()
+    }
+  }
+
   return (
     <Card className="mb-4">
       <Card.Header className="bg-dark">
-        <button href={"/"} type="button" class="btn btn-link mr-2 float-right text-capitalize">
+        <span class="text-primary float-right pt-3">
+          {data.isActive ? (
+            <span class="badge badge-primary">Active Transaction</span>
+          ) : (
+            <span class="badge badge-light">Inactive Transaction</span>
+          )}{" "}
+        </span>
+        <button
+          type="button"
+          class="btn btn-link mr-2 float-right text-capitalize"
+          onClick={closeTransactionHandler}
+          disabled={!data.isActive}
+        >
           <FontAwesomeIcon icon={faTimes} size="lg" /> <br /> Close
         </button>
         <Accordion.Toggle
@@ -32,26 +99,46 @@ const SingleFarmerLog = eventKey => {
         </Accordion.Toggle>
 
         <p className="mt-2 mb-2 text-primary">
-          Animesh Ghosh
-          <span class="text-muted"> (</span>
-          <span class="text-muted fs-small">&nbsp; +91 9082879987 &nbsp;</span>
+          {data.farmer[0].fullname}
+          <br />
           <span class="text-muted">
-            ) <br /> {titleCase("BUXAR")}, Bihar <br />
+            +91 {data.farmer[0].phoneNumber} &nbsp;
+          </span>
+          <span class="text-muted">
+            <br /> {titleCase(data.farmer[0].locationCity)},{" "}
+            {data.farmer[0].locationState} <br />
           </span>
         </p>
         <p class="mt-2 text-white">
-          Jowar : 20 units * 1125 Rs. per unit = {20 * 1125} Rs. <br />
-          From 1st July, 2021 to 1st September, 2022
+          {data.crop[0].cropName} : {data.unit} units * {data.price} Rs. per
+          unit = {data.unit * data.price} Rs. <br />
+          From {startDate.toDateString()} to {endDate.toDateString()}
         </p>
       </Card.Header>
       <Accordion.Collapse eventKey={eventKey}>
         <Card.Body className="bg-light">
-          <Card.Title>Card Title</Card.Title>
-          <Card.Text>
-            Some quick example text to build on the card title and make up the
-            bulk of the card's content.
-          </Card.Text>
-          <Button variant="primary">Go somewhere</Button>
+          <div className="row">
+            <div className="col-md-12 mx-auto">
+              <Slider
+                {...settings}
+                dots={true}
+                slidesToShow={
+                  data.progress.length > 4 ? 4 : data.progress.length
+                }
+              >
+                {data.progress.map(progressData => {
+                  console.log(progressData)
+                  return (
+                    <SliderCards
+                      key={progressData._id}
+                      img={progressData.cropPhotoURL}
+                      title={progressData.stage}
+                    ></SliderCards>
+                  )
+                })}
+              </Slider>
+            </div>
+          </div>
         </Card.Body>
       </Accordion.Collapse>
     </Card>
@@ -59,10 +146,13 @@ const SingleFarmerLog = eventKey => {
 }
 
 const ViewPostLogComp = ({ id }) => {
+  const [transactions, setTransactions] = useState([])
+
   useEffect(() => {
     async function getLog() {
       const res = await getProgressLog({ postId: id })
-      console.log(res[0])
+      console.log(res)
+      setTransactions(res)
     }
     getLog()
   }, [])
@@ -70,18 +160,22 @@ const ViewPostLogComp = ({ id }) => {
   return (
     <section>
       <div className="">
+        <a href="/dashboard" className="btn btn-dark mb-2 ml-5">
+          <FontAwesomeIcon icon={faArrowLeft} size="lg" /> &nbsp; Back
+        </a>
+
         <div className="container p-4">
-        <div class="row mb-2">
-        <div className="col-md-12">
-            <h5 class="font-weight-bold">Progress Log - Jowar, June</h5>
-        </div>
-        </div>
           <div className="row mb-3">
             <div className="col-md-12">
               <Accordion defaultActiveKey="0">
-                <SingleFarmerLog eventKey={0}></SingleFarmerLog>
-                <SingleFarmerLog eventKey={1}></SingleFarmerLog>
-                <SingleFarmerLog eventKey={2}></SingleFarmerLog>
+                {transactions.map(data => {
+                  return (
+                    <SingleFarmerLog
+                      eventKey={data._id}
+                      data={data}
+                    ></SingleFarmerLog>
+                  )
+                })}
               </Accordion>
             </div>
           </div>

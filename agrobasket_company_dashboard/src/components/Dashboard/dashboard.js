@@ -38,13 +38,13 @@ const SinglePost = data => {
         >
           <FontAwesomeIcon icon={faEye} /> &nbsp; View Progress Log
         </a>
-        {/* <a
-          href={"/editPost/" + data.data._id}
+        <a
+          href={"/updatePostUnits/" + data.data._id}
           type="button"
           class="btn btn-dark rounded-pill py-2 px-4"
         >
           <FontAwesomeIcon icon={faPencilAlt} /> &nbsp; Edit Details
-        </a> */}
+        </a>
       </td>
     </tr>
   )
@@ -105,7 +105,7 @@ const Dashboard = () => {
                           <tr>
                             <td class="align-top">
                               <a
-                                href={"/editCompany/" + companyInfo._id}
+                                href={"/updateCompany"}
                                 type="button"
                                 class="btn btn-primary rounded-pill py-2 px-4"
                               >

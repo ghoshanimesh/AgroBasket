@@ -26,3 +26,36 @@ export const getProgressLog = async postId => {
   // console.log(res.data.msg)
   return res.data;
 }
+
+export const closeTransaction = async transactionId => {
+  const token = getToken()
+  const res = await axios.post(
+    "https://agrobasket.herokuapp.com/closeTransaction",
+    transactionId,
+    { headers: { 'Authorization': token, 'Content-Type' : "application/json" } }
+  )
+  console.log(res.data.msg)
+  return res.data;
+}
+
+export const updatePostUnitsRoute = async data => {
+  const token = getToken()
+  const res = await axios.post(
+    "https://agrobasket.herokuapp.com/updatePostUnitsForCompanyById",
+    data,
+    { headers: { 'Authorization': token, 'Content-Type' : "application/json" } }
+  )
+  console.log(res.data.msg)
+  return res.data;
+}
+
+export const updateCompanyDetails = async data => {
+  const token = getToken()
+  const res = await axios.post(
+    "https://agrobasket.herokuapp.com/updateCompanyDetailById",
+    data,
+    { headers: { 'Authorization': token, 'Content-Type' : "application/json" } }
+  )
+  console.log(res.data.msg)
+  return res.data;
+}
