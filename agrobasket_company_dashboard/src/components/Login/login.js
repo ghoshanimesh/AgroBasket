@@ -80,6 +80,9 @@ const Login = () => {
                   </div>
                 </div>
               </div>
+              <div className="my-3">
+                <a href="/registerPage" className="float-right text-primary"> Do not have a account? Register! </a>
+              </div>
               <div className="text-center mt-3">
                 <button
                   type="submit"
