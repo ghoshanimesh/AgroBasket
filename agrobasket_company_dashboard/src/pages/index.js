@@ -1,5 +1,6 @@
 import React, {useEffect} from "react"
 import SEO from "../components/seo"
+import { navigate } from "gatsby";
 
 const IndexPage = () => {
   useEffect(() => {

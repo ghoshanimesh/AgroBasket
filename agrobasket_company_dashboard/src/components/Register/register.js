@@ -2,7 +2,7 @@ import React, { useState } from "react"
 import "../../styles/style.css"
 import { Alert } from "react-bootstrap"
 import { navigate } from "gatsby"
-import {handleRegister} from "../../services/auth"
+import { handleRegister } from "../../services/auth"
 
 const useFormInput = initialValue => {
   const [value, setValue] = useState(initialValue)
@@ -45,23 +45,15 @@ const Register = () => {
         bankIfscCode: bankIfscCode.value,
         bankAccountNumber: bankAccountNumber.value,
       }
-      const res = await handleRegister(data);
-      if(res){
-        setAlert(
-          <Alert variant="success">
-            Registered Successfully.
-          </Alert>
-        )
+      const res = await handleRegister(data)
+      if (res) {
+        setAlert(<Alert variant="success">Registered Successfully.</Alert>)
         setTimeout(() => {
-          navigate("/dashboard");
-        }, 1000)  
+          navigate("/dashboard")
+        }, 1000)
       }
     } else {
-      setAlert(
-        <Alert variant="danger">
-          Please check your data.
-        </Alert>
-      )
+      setAlert(<Alert variant="danger">Please check your data.</Alert>)
       setTimeout(() => {
         window.location.reload()
       }, 1000)
@@ -224,12 +216,18 @@ const Register = () => {
                   </div>
                 </div>
               </div>
+
               <div className="text-center mt-3">
                 <button type="submit" name="action" className="btn btn-primary">
                   Create Your Account
                 </button>
               </div>
             </form>
+            <div className="mt-2 text-center">
+              <a href="/loginPage" className="text-primary">
+                Have an Account? Sign In!
+              </a>
+            </div>
           </div>
         </div>
       </div>

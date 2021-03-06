@@ -80,7 +80,7 @@ const Login = () => {
                   </div>
                 </div>
               </div>
-              <div className="my-3">
+              <div className="mb-4 pb-2">
                 <a href="/registerPage" className="float-right text-primary"> Do not have a account? Register! </a>
               </div>
               <div className="text-center mt-3">

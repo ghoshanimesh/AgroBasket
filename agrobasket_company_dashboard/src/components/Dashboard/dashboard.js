@@ -158,11 +158,11 @@ const Dashboard = () => {
                       </tr>
                     </thead>
                     <tbody class="list">
-                      {posts.map(post => {
+                      {posts.length > 0 ? posts.map(post => {
                         return (
                           <SinglePost key={post._id} data={post}></SinglePost>
                         )
-                      })}
+                      }) : ""}
                     </tbody>
                   </table>
                 </div>

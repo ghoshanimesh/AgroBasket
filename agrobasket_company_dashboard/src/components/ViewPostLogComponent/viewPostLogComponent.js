@@ -1,6 +1,5 @@
 import {
   faArrowLeft,
-  faCaretDown,
   faEye,
   faTimes,
 } from "@fortawesome/free-solid-svg-icons"
@@ -126,7 +125,7 @@ const SingleFarmerLog = ({ eventKey, data }) => {
                   data.progress.length > 4 ? 4 : data.progress.length
                 }
               >
-                {data.progress.map(progressData => {
+                {data.progress > 0 ? data.progress.map(progressData => {
                   console.log(progressData)
                   return (
                     <SliderCards
@@ -135,7 +134,7 @@ const SingleFarmerLog = ({ eventKey, data }) => {
                       title={progressData.stage}
                     ></SliderCards>
                   )
-                })}
+                }) : <div></div>}
               </Slider>
             </div>
           </div>
@@ -168,14 +167,14 @@ const ViewPostLogComp = ({ id }) => {
           <div className="row mb-3">
             <div className="col-md-12">
               <Accordion defaultActiveKey="0">
-                {transactions.map(data => {
+                {transactions.length > 0 ? transactions.map(data => {
                   return (
                     <SingleFarmerLog
                       eventKey={data._id}
                       data={data}
                     ></SingleFarmerLog>
                   )
-                })}
+                }) : ""}
               </Accordion>
             </div>
           </div>
