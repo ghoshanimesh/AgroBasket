@@ -1,15 +1,13 @@
-import React, {useEffect} from "react"
+import React, { useEffect } from "react"
+import IndexComponent from "../components/Index/indexComponent"
 import SEO from "../components/seo"
-import { navigate } from "gatsby";
 
 const IndexPage = () => {
-  useEffect(() => {
-	   navigate("/loginPage");
-	}, []);
   return (
-  	<div>
-   	 <SEO title="Home" />
- 	  </div>
+    <div>
+      <SEO title="Home" />
+      <IndexComponent></IndexComponent>
+    </div>
   )
 }
 
