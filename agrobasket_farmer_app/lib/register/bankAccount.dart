@@ -19,57 +19,75 @@ class _BankAccountState extends State<BankAccount> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Container(
-        color: white,
-        padding: EdgeInsets.all(20),
-        child: SingleChildScrollView(
-          child: Column(
-            children: [
-              SizedBox(
-                height: MediaQuery.of(context).size.height * 0.1,
-              ),
-              InitialHeroText("Next Steps"),
-              SizedBox(
-                height: MediaQuery.of(context).size.height * 0.015,
-              ),
-              CustomTextField("Bank Account Number", (value) {
-                setState(() {
-                  accountNumber = value;
-                });
-              }, false, TextCapitalization.none, false, true),
-              SizedBox(
-                height: MediaQuery.of(context).size.height * 0.015,
-              ),
-              CustomTextField("IFSC Code", (value) {
-                setState(() {
-                  ifscCode = value;
-                });
-              }, false, TextCapitalization.none, false, false),
-              SizedBox(
-                height: MediaQuery.of(context).size.height * 0.015,
-              ),
-              CustomTextField("Account Holder's Name", (value) {
-                setState(() {
-                  accountHolderName = value;
-                });
-              }, false, TextCapitalization.words, false, false),
-              SizedBox(
-                height: MediaQuery.of(context).size.height * 0.275,
-              ),
-              CustomButton("Submit", () async {
-                SharedPreferences prefs = await SharedPreferences.getInstance();
-                prefs.setString('accountNumber', accountNumber);
-                prefs.setString('ifscCode', ifscCode);
-                prefs.setString('accountHolderName', accountHolderName);
+      body: Builder(
+        builder: (context) => Container(
+          color: white,
+          padding: EdgeInsets.all(20),
+          child: SingleChildScrollView(
+            child: Column(
+              children: [
+                SizedBox(
+                  height: MediaQuery.of(context).size.height * 0.1,
+                ),
+                InitialHeroText("Next Steps"),
+                SizedBox(
+                  height: MediaQuery.of(context).size.height * 0.015,
+                ),
+                CustomTextField("Bank Account Number", (value) {
+                  setState(() {
+                    accountNumber = value;
+                  });
+                }, false, TextCapitalization.none, false, true),
+                SizedBox(
+                  height: MediaQuery.of(context).size.height * 0.015,
+                ),
+                CustomTextField("IFSC Code", (value) {
+                  setState(() {
+                    ifscCode = value;
+                  });
+                }, false, TextCapitalization.none, false, false),
+                SizedBox(
+                  height: MediaQuery.of(context).size.height * 0.015,
+                ),
+                CustomTextField("Account Holder's Name", (value) {
+                  setState(() {
+                    accountHolderName = value;
+                  });
+                }, false, TextCapitalization.words, false, false),
+                SizedBox(
+                  height: MediaQuery.of(context).size.height * 0.275,
+                ),
+                CustomButton("Submit", () async {
+                  if (accountNumber != null &&
+                      ifscCode != null &&
+                      accountHolderName != null) {
+                    SharedPreferences prefs =
+                        await SharedPreferences.getInstance();
+                    prefs.setString('accountNumber', accountNumber);
+                    prefs.setString('ifscCode', ifscCode);
+                    prefs.setString('accountHolderName', accountHolderName);
 
-                Authentication().register();
+                    await Authentication().register();
 
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(builder: (context) => DashBoard()),
-                );
-              }),
-            ],
+                    if (prefs.getString('token') != null) {
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(builder: (context) => DashBoard()),
+                      );
+                    } else {
+                      print("Error");
+                    }
+                  } else {
+                    print("Values not found");
+                    Scaffold.of(context).showSnackBar(
+                      SnackBar(
+                        content: Text('All the fields are Mandatory'),
+                      ),
+                    );
+                  }
+                }),
+              ],
+            ),
           ),
         ),
       ),

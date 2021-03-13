@@ -29,78 +29,94 @@ class _CropStatusState extends State<CropStatus> {
         future: _transactions,
         builder: (ctxt, snapshot) {
           if (snapshot.hasData) {
-            return ListView.builder(
-              itemCount: snapshot.data.length,
-              itemBuilder: (listContext, index) {
-                dynamic data = snapshot.data[index];
-                print(data['post']['duration']);
-                return CropStatusCard(
-                  data['crop'][0]['cropImage'],
-                  data['company'][0]['companyName'],
-                  data['crop'][0]['cropName'],
-                  data['price'],
-                  data['unit'],
-                  data['post']['duration'],
-                  data['createdDate'],
-                  data['post']['startMonth'],
-                  () {
-                    //Add
-                    showModalBottomSheet(
-                      shape: RoundedRectangleBorder(
-                        borderRadius: BorderRadius.only(
-                            topLeft: Radius.circular(20.0),
-                            topRight: Radius.circular(20.0)),
-                      ),
-                      context: context,
-                      builder: (BuildContext context) {
-                        return AddProgress(
-                            data['progress'][0]['transactionId']);
-                      },
-                    );
-                  },
-                  () {
-                    //View
-                    showModalBottomSheet(
-                      shape: RoundedRectangleBorder(
-                        borderRadius: BorderRadius.only(
-                            topLeft: Radius.circular(20.0),
-                            topRight: Radius.circular(20.0)),
-                      ),
-                      context: context,
-                      builder: (BuildContext buildContext) {
-                        return Container(
-                          height: MediaQuery.of(context).size.height * 0.75,
-                          padding: EdgeInsets.fromLTRB(2.5, 20, 2.5, 5),
-                          child: Column(
-                            children: [
-                              Container(
-                                child: Center(
-                                  child: Text(
-                                    "View Progress",
-                                    style: GoogleFonts.nunitoSans(
-                                      textStyle: TextStyle(
-                                          fontWeight: FontWeight.w800,
-                                          fontSize: 22,
-                                          height: 1),
+            if (snapshot.data.length > 0) {
+              return ListView.builder(
+                itemCount: snapshot.data.length,
+                itemBuilder: (listContext, index) {
+                  dynamic data = snapshot.data[index];
+                  print(data['post']['duration']);
+                  return CropStatusCard(
+                    data['crop'][0]['cropImage'],
+                    data['company'][0]['companyName'],
+                    data['crop'][0]['cropName'],
+                    data['price'],
+                    data['unit'],
+                    data['post']['duration'],
+                    data['createdDate'],
+                    data['post']['startMonth'],
+                    () {
+                      //Add
+                      showModalBottomSheet(
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.only(
+                              topLeft: Radius.circular(20.0),
+                              topRight: Radius.circular(20.0)),
+                        ),
+                        context: context,
+                        builder: (BuildContext context) {
+                          return AddProgress(
+                              data['progress'][0]['transactionId']);
+                        },
+                      );
+                    },
+                    () {
+                      //View
+                      showModalBottomSheet(
+                        shape: RoundedRectangleBorder(
+                          borderRadius: BorderRadius.only(
+                              topLeft: Radius.circular(20.0),
+                              topRight: Radius.circular(20.0)),
+                        ),
+                        context: context,
+                        builder: (BuildContext buildContext) {
+                          return Container(
+                            height: MediaQuery.of(context).size.height * 0.75,
+                            padding: EdgeInsets.fromLTRB(2.5, 20, 2.5, 5),
+                            child: Column(
+                              children: [
+                                Container(
+                                  child: Center(
+                                    child: Text(
+                                      "View Progress",
+                                      style: GoogleFonts.nunitoSans(
+                                        textStyle: TextStyle(
+                                            fontWeight: FontWeight.w800,
+                                            fontSize: 22,
+                                            height: 1),
+                                      ),
                                     ),
                                   ),
                                 ),
-                              ),
-                              SizedBox(
-                                height: 10,
-                              ),
-                              Expanded(
-                                child: ViewProgress(data['progress']),
-                              ),
-                            ],
-                          ),
-                        );
-                      },
-                    );
-                  },
-                );
-              },
-            );
+                                SizedBox(
+                                  height: 10,
+                                ),
+                                Expanded(
+                                  child: ViewProgress(data['progress']),
+                                ),
+                              ],
+                            ),
+                          );
+                        },
+                      );
+                    },
+                  );
+                },
+              );
+            } else {
+              return Center(
+                child: Text(
+                  "You have not bought any crops.",
+                  style: GoogleFonts.nunitoSans(
+                    textStyle: TextStyle(
+                        fontWeight: FontWeight.w800,
+                        fontSize: 16,
+                        color: black,
+                        height: 0,
+                        letterSpacing: 0),
+                  ),
+                ),
+              );
+            }
           } else {
             return Container();
           }

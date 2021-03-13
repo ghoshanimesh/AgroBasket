@@ -46,8 +46,8 @@ class _DashBoardState extends State<DashBoard> {
                     textStyle: TextStyle(
                         color: primary_basket,
                         fontSize: 32,
-                        fontWeight: FontWeight.bold)))
-          ])),
+                        fontWeight: FontWeight.bold),),),
+          ],),),
         ),
         bottomNavigationBar: BottomNavigationBar(
           selectedItemColor: primary_green,

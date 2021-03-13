@@ -21,10 +21,12 @@ class CustomTextField extends StatelessWidget {
         children: [
           Container(
             padding: EdgeInsets.fromLTRB(2.5, 0, 0, 0),
-            child: Text(this.label,
-                style: GoogleFonts.nunitoSans(
-                    textStyle:
-                        TextStyle(fontWeight: FontWeight.w800, fontSize: 16))),
+            child: Text(
+              this.label,
+              style: GoogleFonts.nunitoSans(
+                textStyle: TextStyle(fontWeight: FontWeight.w800, fontSize: 16),
+              ),
+            ),
           ),
           SizedBox(
             height: 2,

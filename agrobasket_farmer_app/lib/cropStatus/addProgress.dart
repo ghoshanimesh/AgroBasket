@@ -22,7 +22,7 @@ class _AddProgressState extends State<AddProgress> {
 
   Future uploadImage() async {
     try {
-      final image = await ImagePicker().getImage(source: ImageSource.gallery);
+      final image = await ImagePicker().getImage(source: ImageSource.camera);
       setState(() {
         if (image != null) {
           _imageFile = base64Encode(File(image.path).readAsBytesSync());

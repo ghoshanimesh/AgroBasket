@@ -58,23 +58,32 @@ class _LoginState extends State<Login> {
                   height: MediaQuery.of(context).size.height * 0.007,
                 ),
                 CustomButton("Login", () async {
-                  await Authentication().login(username, password);
-                  SharedPreferences prefs =
-                      await SharedPreferences.getInstance();
+                  if (username != null && password != null) {
+                    await Authentication().login(username, password);
+                    SharedPreferences prefs =
+                        await SharedPreferences.getInstance();
 
-                  if (prefs.getString('token') != null) {
-                    final snackBar =
-                        SnackBar(content: Text('Successful Login!'));
-                    Scaffold.of(ctx).showSnackBar(snackBar);
-                    Navigator.push(
-                      context,
-                      MaterialPageRoute(builder: (context) => DashBoard()),
-                    );
+                    if (prefs.getString('token') != null) {
+                      final snackBar =
+                          SnackBar(content: Text('Successful Login!'));
+                      Scaffold.of(ctx).showSnackBar(snackBar);
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(builder: (context) => DashBoard()),
+                      );
+                    } else {
+                      print("Error");
+                      final snackBar =
+                          SnackBar(content: Text('Error while login'));
+                      Scaffold.of(ctx).showSnackBar(snackBar);
+                    }
                   } else {
-                    print("Error");
-                    final snackBar =
-                        SnackBar(content: Text('Error while login'));
-                    Scaffold.of(ctx).showSnackBar(snackBar);
+                    print("Values Not found");
+                    Scaffold.of(ctx).showSnackBar(
+                      SnackBar(
+                        content: Text('All the fields are Mandatory'),
+                      ),
+                    );
                   }
                 })
               ],

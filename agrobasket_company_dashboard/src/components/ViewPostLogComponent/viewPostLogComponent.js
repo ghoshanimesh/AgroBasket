@@ -1,16 +1,16 @@
-import {
-  faArrowLeft,
-  faEye,
-  faTimes,
-} from "@fortawesome/free-solid-svg-icons"
+import { faArrowLeft, faEye, faTimes } from "@fortawesome/free-solid-svg-icons"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import React, { useState, useEffect } from "react"
-import { Accordion, Button, Card } from "react-bootstrap"
+import { Accordion, Button, Card, Modal } from "react-bootstrap"
 import Slider from "react-slick"
 import "slick-carousel/slick/slick.css"
 import "slick-carousel/slick/slick-theme.css"
-import { getProgressLog, closeTransaction } from "../../services/post"
-import "./ViewPostLogComponent.css"
+import {
+  getProgressLog,
+  closeTransaction,
+  getCountOfPests,
+} from "../../services/post"
+import "./viewPostLogComponent.css"
 
 const titleCase = str => {
   return str
@@ -27,7 +27,17 @@ const getMonthFromString = mon => {
   return new Date(Date.parse(mon + " 1, 2021")).getMonth() + 1
 }
 
-const SliderCards = ({ key, img, title }) => {
+const SliderCards = ({ index, key, img, title }) => {
+  const [show, setShow] = useState(false)
+  const [pests, setPests] = useState("")
+
+  const handleClose = () => setShow(false)
+  const handlePestCount = async () => {
+    const res = await getCountOfPests({ imgurl: img })
+    console.log(res + " Pests")
+    setPests(res)
+    setShow(true)
+  }
   return (
     <div className="card px-2" key={key}>
       <div className="bg-light align-items-center">
@@ -41,6 +51,27 @@ const SliderCards = ({ key, img, title }) => {
           <h5 className="card-title text-center font-weight-bold mb-2 text-primary">
             {title}
           </h5>
+          {index != 0 ? (
+            <button
+              type="submit"
+              name="action"
+              className="btn btn-dark btn-lg btn-block"
+              onClick={handlePestCount}
+            >
+              Get Pests
+            </button>
+          ) : (
+            ""
+          )}
+
+          <Modal show={show} onHide={handleClose}>
+            <Modal.Header closeButton>
+              <Modal.Title>Number of Pests</Modal.Title>
+            </Modal.Header>
+            <Modal.Body>
+              The number of Pests in this image is {pests}
+            </Modal.Body>
+          </Modal>
         </div>
       </div>
     </div>
@@ -125,16 +156,21 @@ const SingleFarmerLog = ({ eventKey, data }) => {
                   data.progress.length > 4 ? 4 : data.progress.length
                 }
               >
-                {data.progress > 0 ? data.progress.map(progressData => {
-                  console.log(progressData)
-                  return (
-                    <SliderCards
-                      key={progressData._id}
-                      img={progressData.cropPhotoURL}
-                      title={progressData.stage}
-                    ></SliderCards>
-                  )
-                }) : <div></div>}
+                {data.progress.length > 0 ? (
+                  data.progress.map((progressData, index) => {
+                    console.log(progressData)
+                    return (
+                      <SliderCards
+                        index={index}
+                        key={progressData._id}
+                        img={progressData.cropPhotoURL}
+                        title={progressData.stage}
+                      ></SliderCards>
+                    )
+                  })
+                ) : (
+                  <div></div>
+                )}
               </Slider>
             </div>
           </div>
@@ -167,14 +203,16 @@ const ViewPostLogComp = ({ id }) => {
           <div className="row mb-3">
             <div className="col-md-12">
               <Accordion defaultActiveKey="0">
-                {transactions.length > 0 ? transactions.map(data => {
-                  return (
-                    <SingleFarmerLog
-                      eventKey={data._id}
-                      data={data}
-                    ></SingleFarmerLog>
-                  )
-                }) : ""}
+                {transactions.length > 0
+                  ? transactions.map(data => {
+                      return (
+                        <SingleFarmerLog
+                          eventKey={data._id}
+                          data={data}
+                        ></SingleFarmerLog>
+                      )
+                    })
+                  : ""}
               </Accordion>
             </div>
           </div>

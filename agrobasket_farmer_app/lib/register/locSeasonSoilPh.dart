@@ -18,7 +18,7 @@ class _LocationSeasonSoilPHState extends State<LocationSeasonSoilPH> {
   String location;
   String seasonMonth;
   String soil;
-  RangeValues phRangeValues = RangeValues(4, 8);
+  RangeValues phRangeValues = RangeValues(5, 8);
 
   locationCallback(locationVal) {
     setState(() {
@@ -47,58 +47,73 @@ class _LocationSeasonSoilPHState extends State<LocationSeasonSoilPH> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Container(
-        color: white,
-        padding: EdgeInsets.all(20),
-        child: Column(
-          children: [
-            SizedBox(
-              height: MediaQuery.of(context).size.height * 0.1,
-            ),
-            InitialHeroText("Next Steps"),
-            SizedBox(
-              height: MediaQuery.of(context).size.height * 0.02,
-            ),
-            LocationInput(location, locationCallback),
-            SizedBox(
-              height: MediaQuery.of(context).size.height * 0.02,
-            ),
-            SeasonMonth(seasonMonth, seasonMonthCallback),
-            SizedBox(
-              height: MediaQuery.of(context).size.height * 0.02,
-            ),
-            SoilSelect(soil, soilCallback),
-            SizedBox(
-              height: MediaQuery.of(context).size.height * 0.02,
-            ),
-            SoilPHInput(phRangeValues, phRangeValuesCallback),
-            SizedBox(
-              height: MediaQuery.of(context).size.height * 0.05,
-            ),
-            CustomButton("Next", () async {
-              print(location.split("-")[0]);
-              print(location.split("-")[1]);
-              print(seasonMonth.split("-")[0]);
-              print(seasonMonth.split("-")[1]);
-              print(soil);
-              print(phRangeValues.start);
-              print(phRangeValues.end);
+      body: Builder(
+        builder: (context) => Container(
+          color: white,
+          padding: EdgeInsets.all(20),
+          child: Column(
+            children: [
+              SizedBox(
+                height: MediaQuery.of(context).size.height * 0.1,
+              ),
+              InitialHeroText("Next Steps"),
+              SizedBox(
+                height: MediaQuery.of(context).size.height * 0.02,
+              ),
+              LocationInput(location, locationCallback),
+              SizedBox(
+                height: MediaQuery.of(context).size.height * 0.02,
+              ),
+              SeasonMonth(seasonMonth, seasonMonthCallback),
+              SizedBox(
+                height: MediaQuery.of(context).size.height * 0.02,
+              ),
+              SoilSelect(soil, soilCallback),
+              SizedBox(
+                height: MediaQuery.of(context).size.height * 0.02,
+              ),
+              SoilPHInput(phRangeValues, phRangeValuesCallback),
+              SizedBox(
+                height: MediaQuery.of(context).size.height * 0.05,
+              ),
+              CustomButton("Next", () async {
+                if (location != null &&
+                    seasonMonth != null &&
+                    soil != null &&
+                    phRangeValues != null) {
+                  print(location.split("-")[0]);
+                  print(location.split("-")[1]);
+                  print(seasonMonth.split("-")[0]);
+                  print(seasonMonth.split("-")[1]);
+                  print(soil);
+                  print(phRangeValues.start);
+                  print(phRangeValues.end);
 
-              SharedPreferences prefs = await SharedPreferences.getInstance();
-              prefs.setString("city", location.split("-")[0]);
-              prefs.setString("state", location.split("-")[1]);
-              prefs.setString("season", seasonMonth.split("-")[0]);
-              prefs.setString("month", seasonMonth.split("-")[1]);
-              prefs.setString("soil", soil);
-              prefs.setDouble("soilPhMin", phRangeValues.start);
-              prefs.setDouble("soilPhMax", phRangeValues.end);
+                  SharedPreferences prefs =
+                      await SharedPreferences.getInstance();
+                  prefs.setString("city", location.split("-")[0]);
+                  prefs.setString("state", location.split("-")[1]);
+                  prefs.setString("season", seasonMonth.split("-")[0]);
+                  prefs.setString("month", seasonMonth.split("-")[1]);
+                  prefs.setString("soil", soil);
+                  prefs.setDouble("soilPhMin", phRangeValues.start);
+                  prefs.setDouble("soilPhMax", phRangeValues.end);
 
-              Navigator.push(
-                context,
-                MaterialPageRoute(builder: (context) => BankAccount()),
-              );
-            })
-          ],
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (context) => BankAccount()),
+                  );
+                } else {
+                  print("Values Not found");
+                  Scaffold.of(context).showSnackBar(
+                    SnackBar(
+                      content: Text('All the fields are Mandatory'),
+                    ),
+                  );
+                }
+              })
+            ],
+          ),
         ),
       ),
     );

@@ -59,3 +59,13 @@ export const updateCompanyDetails = async data => {
   console.log(res.data.msg)
   return res.data;
 }
+
+export const getCountOfPests = async imgUrl => {
+  console.log(imgUrl);
+  const res = await axios.post(
+    "https://pesticides-detection.herokuapp.com/getPestDetails",
+    imgUrl,
+    { headers: { 'Content-Type' : "application/json"} }
+  )
+  return res.data;
+}
